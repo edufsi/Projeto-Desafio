@@ -1,0 +1,2550 @@
+Continent ID,Continent,Country ID,Country,ISO 3,Trade Value,Year
+af,Africa,afago,Angola,ago,5252.0,2011
+af,Africa,afbwa,Botswana,bwa,21389.0,2011
+af,Africa,afciv,Cote d'Ivoire,civ,1922.0,2011
+af,Africa,afcod,Democratic Republic of the Congo,cod,18817.0,2011
+af,Africa,afcog,Republic of the Congo,cog,2503.0,2011
+af,Africa,afdza,Algeria,dza,2400844.0,2011
+af,Africa,afegy,Egypt,egy,55996241.0,2011
+af,Africa,afgha,Ghana,gha,151815.0,2011
+af,Africa,afgnb,Guinea-Bissau,gnb,2537.0,2011
+af,Africa,afken,Kenya,ken,980.0,2011
+af,Africa,aflso,Lesotho,lso,35008.0,2011
+af,Africa,afmar,Morocco,mar,15167.0,2011
+af,Africa,afmoz,Mozambique,moz,3294410.9999999995,2011
+af,Africa,afnga,Nigeria,nga,2036886.0,2011
+af,Africa,afrwa,Rwanda,rwa,982.0,2011
+af,Africa,afsdn,Sudan,sdn,5171.0,2011
+af,Africa,afsen,Senegal,sen,1552033.0,2011
+af,Africa,afsle,Sierra Leone,sle,8857470.0,2011
+af,Africa,afswz,Eswatini,swz,18548.0,2011
+af,Africa,aftun,Tunisia,tun,159693.0,2011
+af,Africa,aftza,Tanzania,tza,96096.0,2011
+af,Africa,afuga,Uganda,uga,309032.0,2011
+af,Africa,afzaf,South Africa,zaf,80676.0,2011
+af,Africa,afzmb,Zambia,zmb,12714.0,2011
+af,Africa,afzwe,Zimbabwe,zwe,2847.0,2011
+as,Asia,asare,United Arab Emirates,are,18159788.0,2011
+as,Asia,asaze,Azerbaijan,aze,511.0,2011
+as,Asia,asbgd,Bangladesh,bgd,18273683.0,2011
+as,Asia,asbhr,Bahrain,bhr,810914437.0,2011
+as,Asia,asbtn,Bhutan,btn,9937.999999999998,2011
+as,Asia,aschn,China,chn,79917243968.99998,2011
+as,Asia,ascyp,Cyprus,cyp,34633.0,2011
+as,Asia,ashkg,Hong Kong,hkg,32605732.0,2011
+as,Asia,asidn,Indonesia,idn,308611778.0,2011
+as,Asia,asind,India,ind,15043884.0,2011
+as,Asia,asirn,Iran,irn,1514.0,2011
+as,Asia,asirq,Iraq,irq,2731215.0,2011
+as,Asia,asisr,Israel,isr,63078.0,2011
+as,Asia,asjor,Jordan,jor,635727.0,2011
+as,Asia,asjpn,Japan,jpn,15277435124.000002,2011
+as,Asia,askaz,Kazakhstan,kaz,17544499.0,2011
+as,Asia,askor,South Korea,kor,8315317927.0,2011
+as,Asia,askwt,Kuwait,kwt,51602.00000000001,2011
+as,Asia,aslbn,Lebanon,lbn,3307.0000000000005,2011
+as,Asia,asmng,Mongolia,mng,619996.0,2011
+as,Asia,asmys,Malaysia,mys,107102313.0,2011
+as,Asia,asnpl,Nepal,npl,207939.00000000003,2011
+as,Asia,asomn,Oman,omn,554200712.9999999,2011
+as,Asia,aspak,Pakistan,pak,34882920.00000001,2011
+as,Asia,asphl,Philippines,phl,367290065.0,2011
+as,Asia,aspse,Palestine,pse,679883.0,2011
+as,Asia,asqat,Qatar,qat,902488.0,2011
+as,Asia,assau,Saudi Arabia,sau,530099.0,2011
+as,Asia,assgp,Singapore,sgp,91570693.0,2011
+as,Asia,assyr,Syria,syr,1668.0000000000002,2011
+as,Asia,astha,Thailand,tha,11203233.0,2011
+as,Asia,astjk,Tajikistan,tjk,47677.0,2011
+as,Asia,astkm,Turkmenistan,tkm,2183218.0,2011
+as,Asia,astur,Turkey,tur,345208419.0,2011
+as,Asia,astwn,Chinese Taipei,twn,2479081010.0,2011
+as,Asia,asuzb,Uzbekistan,uzb,803.0,2011
+as,Asia,asvnm,Vietnam,vnm,1395563.0,2011
+as,Asia,asyem,Yemen,yem,23127.0,2011
+eu,Europe,euaut,Austria,aut,100596413.0,2011
+eu,Europe,eubel,Belgium,bel,503340180.0,2011
+eu,Europe,eubgr,Bulgaria,bgr,717396.0,2011
+eu,Europe,eubih,Bosnia and Herzegovina,bih,70488.0,2011
+eu,Europe,eublr,Belarus,blr,19418.0,2011
+eu,Europe,euche,Switzerland,che,65499336.0,2011
+eu,Europe,eucze,Czechia,cze,446557596.0,2011
+eu,Europe,eudeu,Germany,deu,1822239397.0,2011
+eu,Europe,eudnk,Denmark,dnk,3285489.0,2011
+eu,Europe,euesp,Spain,esp,435019861.0,2011
+eu,Europe,euest,Estonia,est,380263.0,2011
+eu,Europe,eufin,Finland,fin,245032825.0,2011
+eu,Europe,eufra,France,fra,1243096246.0,2011
+eu,Europe,eugbr,United Kingdom,gbr,858526613.0,2011
+eu,Europe,eugib,Gibraltar,gib,64.0,2011
+eu,Europe,eugrc,Greece,grc,324923.0,2011
+eu,Europe,euhrv,Croatia,hrv,138771.0,2011
+eu,Europe,euhun,Hungary,hun,103588698.0,2011
+eu,Europe,euirl,Ireland,irl,11193.0,2011
+eu,Europe,euita,Italy,ita,1244506232.0,2011
+eu,Europe,eultu,Lithuania,ltu,33562.0,2011
+eu,Europe,eulux,Luxembourg,lux,59970362.0,2011
+eu,Europe,eulva,Latvia,lva,57701.0,2011
+eu,Europe,eumda,Moldova,mda,113287.0,2011
+eu,Europe,eumkd,North Macedonia,mkd,8935937.0,2011
+eu,Europe,eunld,Netherlands,nld,2080655953.0,2011
+eu,Europe,eunor,Norway,nor,21420507.0,2011
+eu,Europe,eupol,Poland,pol,587005216.0,2011
+eu,Europe,euprt,Portugal,prt,51119.0,2011
+eu,Europe,eurou,Romania,rou,206062184.0,2011
+eu,Europe,eurus,Russia,rus,795266244.0,2011
+eu,Europe,eusrb,Serbia,srb,65045729.00000001,2011
+eu,Europe,eusvk,Slovakia,svk,222002914.00000003,2011
+eu,Europe,eusvn,Slovenia,svn,78041370.0,2011
+eu,Europe,euswe,Sweden,swe,9109171.0,2011
+eu,Europe,euukr,Ukraine,ukr,87330875.0,2011
+na,North America,naatg,Antigua and Barbuda,atg,770.0,2011
+na,North America,nabrb,Barbados,brb,16859530.0,2011
+na,North America,nacan,Canada,can,42759465.0,2011
+na,North America,nacri,Costa Rica,cri,10366.0,2011
+na,North America,nadom,Dominican Republic,dom,1059.0000000000002,2011
+na,North America,nagtm,Guatemala,gtm,3131.0,2011
+na,North America,nahnd,Honduras,hnd,899.0,2011
+na,North America,nalca,Saint Lucia,lca,412.00000000000006,2011
+na,North America,namex,Mexico,mex,109948007.0,2011
+na,North America,napan,Panama,pan,57758.0,2011
+na,North America,naslv,El Salvador,slv,1828.0,2011
+na,North America,natto,Trinidad and Tobago,tto,351154202.00000006,2011
+na,North America,nausa,United States,usa,292750543.0,2011
+oc,Oceania,ocaus,Australia,aus,111873196.0,2011
+oc,Oceania,ocncl,New Caledonia,ncl,83245.0,2011
+oc,Oceania,ocnzl,New Zealand,nzl,226264.0,2011
+oc,Oceania,ocpng,Papua New Guinea,png,123.0,2011
+oc,Oceania,ocvut,Vanuatu,vut,350.0,2011
+sa,South America,saarg,Argentina,arg,555361538.0,2011
+sa,South America,sabol,Bolivia,bol,1168.0,2011
+sa,South America,sabra,Brazil,bra,24979.0,2011
+sa,South America,sachl,Chile,chl,177214.0,2011
+sa,South America,sacol,Colombia,col,1771362.0,2011
+sa,South America,saecu,Ecuador,ecu,667.9999999999999,2011
+sa,South America,saper,Peru,per,99516.0,2011
+sa,South America,sapry,Paraguay,pry,17198041.0,2011
+sa,South America,sasur,Suriname,sur,1257.0000000000002,2011
+sa,South America,saury,Uruguay,ury,713.0,2011
+sa,South America,saven,Venezuela,ven,129405.0,2011
+af,Africa,afago,Angola,ago,3585.0,2011
+af,Africa,afbwa,Botswana,bwa,6.999999999999999,2011
+af,Africa,afciv,Cote d'Ivoire,civ,6262.0,2011
+af,Africa,afcod,Democratic Republic of the Congo,cod,91784.0,2011
+af,Africa,afdza,Algeria,dza,2191227.0,2011
+af,Africa,afegy,Egypt,egy,918536701.0,2011
+af,Africa,afeth,Ethiopia,eth,6.999999999999999,2011
+af,Africa,afken,Kenya,ken,4478.0,2011
+af,Africa,aflbr,Liberia,lbr,1058.0,2011
+af,Africa,aflby,Libya,lby,11566386.0,2011
+af,Africa,aflso,Lesotho,lso,116.0,2011
+af,Africa,afmar,Morocco,mar,117062.0,2011
+af,Africa,afmoz,Mozambique,moz,671133.0,2011
+af,Africa,afmus,Mauritius,mus,15800.0,2011
+af,Africa,afmwi,Malawi,mwi,2400.0,2011
+af,Africa,afswz,Eswatini,swz,486.0,2011
+af,Africa,aftza,Tanzania,tza,172.0,2011
+af,Africa,afzaf,South Africa,zaf,56338952.0,2011
+af,Africa,afzwe,Zimbabwe,zwe,2112.0,2011
+as,Asia,asare,United Arab Emirates,are,637375667.0,2011
+as,Asia,asarm,Armenia,arm,251016.0,2011
+as,Asia,asbtn,Bhutan,btn,24837.0,2011
+as,Asia,aschn,China,chn,10446699658.0,2011
+as,Asia,ashkg,Hong Kong,hkg,47569524.00000001,2011
+as,Asia,asidn,Indonesia,idn,352137392.0,2011
+as,Asia,asind,India,ind,286140880.0,2011
+as,Asia,asirn,Iran,irn,330.0,2011
+as,Asia,asirq,Iraq,irq,1794117.0,2011
+as,Asia,asjpn,Japan,jpn,1955795549.0,2011
+as,Asia,askaz,Kazakhstan,kaz,15177.999999999998,2011
+as,Asia,askhm,Cambodia,khm,45009.0,2011
+as,Asia,askor,South Korea,kor,854627440.0,2011
+as,Asia,asmys,Malaysia,mys,262027971.0,2011
+as,Asia,asomn,Oman,omn,447339339.0,2011
+as,Asia,aspak,Pakistan,pak,26785487.0,2011
+as,Asia,asphl,Philippines,phl,3790.0,2011
+as,Asia,asprk,North Korea,prk,42652130.99999999,2011
+as,Asia,asqat,Qatar,qat,1047358770.0,2011
+as,Asia,assau,Saudi Arabia,sau,1807165057.0,2011
+as,Asia,assgp,Singapore,sgp,6954499.0,2011
+as,Asia,assyr,Syria,syr,1784022.0000000002,2011
+as,Asia,astha,Thailand,tha,159299.0,2011
+as,Asia,astjk,Tajikistan,tjk,32621.000000000004,2011
+as,Asia,astur,Turkey,tur,606086866.0,2011
+as,Asia,astwn,Chinese Taipei,twn,619149686.0,2011
+as,Asia,asvnm,Vietnam,vnm,7741.999999999999,2011
+eu,Europe,euaut,Austria,aut,521536251.0,2011
+eu,Europe,eubel,Belgium,bel,107451556.0,2011
+eu,Europe,eubgr,Bulgaria,bgr,11275.0,2011
+eu,Europe,eubih,Bosnia and Herzegovina,bih,16984838.0,2011
+eu,Europe,eublr,Belarus,blr,109036.0,2011
+eu,Europe,euche,Switzerland,che,2398.0,2011
+eu,Europe,eucze,Czechia,cze,215347955.0,2011
+eu,Europe,eudeu,Germany,deu,1538294049.0,2011
+eu,Europe,eudnk,Denmark,dnk,1470480.0,2011
+eu,Europe,euesp,Spain,esp,263068317.0,2011
+eu,Europe,euest,Estonia,est,3526.0000000000005,2011
+eu,Europe,eufin,Finland,fin,315035380.0,2011
+eu,Europe,eufra,France,fra,510241403.0,2011
+eu,Europe,eugbr,United Kingdom,gbr,644667419.0,2011
+eu,Europe,euhun,Hungary,hun,132256206.0,2011
+eu,Europe,euirl,Ireland,irl,3684.000000000001,2011
+eu,Europe,euisl,Iceland,isl,6085406.999999999,2011
+eu,Europe,euita,Italy,ita,1038034705.0,2011
+eu,Europe,eultu,Lithuania,ltu,100.0,2011
+eu,Europe,eulva,Latvia,lva,7499.0,2011
+eu,Europe,eunld,Netherlands,nld,1588040007.0,2011
+eu,Europe,eunor,Norway,nor,9178701.0,2011
+eu,Europe,eupol,Poland,pol,37113347.0,2011
+eu,Europe,eurou,Romania,rou,59262297.0,2011
+eu,Europe,eurus,Russia,rus,724532476.0,2011
+eu,Europe,eusrb,Serbia,srb,107135554.0,2011
+eu,Europe,eusvk,Slovakia,svk,346694535.0,2011
+eu,Europe,eusvn,Slovenia,svn,8320392.0,2011
+eu,Europe,euswe,Sweden,swe,2209.0,2011
+eu,Europe,euukr,Ukraine,ukr,54497067.0,2011
+na,North America,naabw,Aruba,abw,1391.0,2011
+na,North America,nacan,Canada,can,902943961.0,2011
+na,North America,namex,Mexico,mex,84320355.0,2011
+na,North America,natto,Trinidad and Tobago,tto,687417701.0,2011
+na,North America,nausa,United States,usa,927843245.0,2011
+oc,Oceania,ocaus,Australia,aus,194388399.0,2011
+sa,South America,saarg,Argentina,arg,800833591.0,2011
+sa,South America,sabra,Brazil,bra,13105.0,2011
+sa,South America,sachl,Chile,chl,11433.0,2011
+sa,South America,saper,Peru,per,4726525.0,2011
+sa,South America,saven,Venezuela,ven,15198315.0,2011
+af,Africa,afbwa,Botswana,bwa,16249.000000000002,2012
+af,Africa,afcmr,Cameroon,cmr,69190.0,2012
+af,Africa,afcod,Democratic Republic of the Congo,cod,26601.0,2012
+af,Africa,afcog,Republic of the Congo,cog,67775.0,2012
+af,Africa,afdji,Djibouti,dji,14995.0,2012
+af,Africa,afdza,Algeria,dza,2395234.9999999995,2012
+af,Africa,afegy,Egypt,egy,94426.0,2012
+af,Africa,afeth,Ethiopia,eth,187.0,2012
+af,Africa,afgha,Ghana,gha,29256.0,2012
+af,Africa,afken,Kenya,ken,117872.0,2012
+af,Africa,aflbr,Liberia,lbr,76747.0,2012
+af,Africa,aflso,Lesotho,lso,2.0,2012
+af,Africa,afmar,Morocco,mar,302626.0,2012
+af,Africa,afmoz,Mozambique,moz,85594303.0,2012
+af,Africa,afmrt,Mauritania,mrt,3241.0,2012
+af,Africa,afnam,Namibia,nam,1467.0,2012
+af,Africa,afnga,Nigeria,nga,1255373.0,2012
+af,Africa,afsdn,Sudan,sdn,22375.0,2012
+af,Africa,afsen,Senegal,sen,1754658.9999999998,2012
+af,Africa,afsle,Sierra Leone,sle,45840.0,2012
+af,Africa,afswz,Eswatini,swz,331.0,2012
+af,Africa,aftun,Tunisia,tun,256347.0,2012
+af,Africa,aftza,Tanzania,tza,1692.0,2012
+af,Africa,afzaf,South Africa,zaf,1820084.0,2012
+af,Africa,afzmb,Zambia,zmb,15883.0,2012
+af,Africa,afzwe,Zimbabwe,zwe,4911.000000000001,2012
+as,Asia,asafg,Afghanistan,afg,805.9999999999999,2012
+as,Asia,asare,United Arab Emirates,are,43056704.0,2012
+as,Asia,asarm,Armenia,arm,2545.0,2012
+as,Asia,asaze,Azerbaijan,aze,217090.0,2012
+as,Asia,asbgd,Bangladesh,bgd,9045.0,2012
+as,Asia,asbhr,Bahrain,bhr,437232026.0,2012
+as,Asia,asbrn,Brunei,brn,4181.0,2012
+as,Asia,asbtn,Bhutan,btn,6768.0,2012
+as,Asia,aschn,China,chn,69757845255.0,2012
+as,Asia,ascyp,Cyprus,cyp,75098.0,2012
+as,Asia,asgeo,Georgia,geo,289529.0,2012
+as,Asia,ashkg,Hong Kong,hkg,18313451.0,2012
+as,Asia,asidn,Indonesia,idn,209607622.0,2012
+as,Asia,asind,India,ind,267828599.0,2012
+as,Asia,asirn,Iran,irn,42886.0,2012
+as,Asia,asirq,Iraq,irq,550432.0,2012
+as,Asia,asisr,Israel,isr,103905.0,2012
+as,Asia,asjor,Jordan,jor,294438.0,2012
+as,Asia,asjpn,Japan,jpn,12907242517.0,2012
+as,Asia,askaz,Kazakhstan,kaz,3065022.0,2012
+as,Asia,askgz,Kyrgyzstan,kgz,2660110.0,2012
+as,Asia,askor,South Korea,kor,7220384113.000001,2012
+as,Asia,askwt,Kuwait,kwt,16666.0,2012
+as,Asia,aslka,Sri Lanka,lka,94322.0,2012
+as,Asia,asmmr,Burma,mmr,6532.999999999999,2012
+as,Asia,asmng,Mongolia,mng,1246270.0,2012
+as,Asia,asmys,Malaysia,mys,354386423.00000006,2012
+as,Asia,asnpl,Nepal,npl,630791.9999999999,2012
+as,Asia,asomn,Oman,omn,900615303.0,2012
+as,Asia,aspak,Pakistan,pak,12913613.0,2012
+as,Asia,asphl,Philippines,phl,607241938.0000001,2012
+as,Asia,aspse,Palestine,pse,838758.9999999999,2012
+as,Asia,asqat,Qatar,qat,39866215.0,2012
+as,Asia,assau,Saudi Arabia,sau,100421813.0,2012
+as,Asia,assgp,Singapore,sgp,344346715.0,2012
+as,Asia,assyr,Syria,syr,12502.0,2012
+as,Asia,astha,Thailand,tha,2086633.0,2012
+as,Asia,astjk,Tajikistan,tjk,22008.0,2012
+as,Asia,astkm,Turkmenistan,tkm,478534.0,2012
+as,Asia,astur,Turkey,tur,290295467.0,2012
+as,Asia,astwn,Chinese Taipei,twn,1898962230.0,2012
+as,Asia,asvnm,Vietnam,vnm,2206971.0,2012
+eu,Europe,eualb,Albania,alb,32.0,2012
+eu,Europe,euaut,Austria,aut,72389815.0,2012
+eu,Europe,eubel,Belgium,bel,370520516.0,2012
+eu,Europe,eubgr,Bulgaria,bgr,223122.0,2012
+eu,Europe,eubih,Bosnia and Herzegovina,bih,52502.0,2012
+eu,Europe,eublr,Belarus,blr,7391.0,2012
+eu,Europe,euche,Switzerland,che,1336462.0,2012
+eu,Europe,eucze,Czechia,cze,357822293.0,2012
+eu,Europe,eudeu,Germany,deu,1179096679.0,2012
+eu,Europe,eudnk,Denmark,dnk,1828968.0,2012
+eu,Europe,euesp,Spain,esp,326846695.0,2012
+eu,Europe,euest,Estonia,est,425717.0,2012
+eu,Europe,eufin,Finland,fin,6864767.0,2012
+eu,Europe,eufra,France,fra,965403675.0,2012
+eu,Europe,eugbr,United Kingdom,gbr,767159035.0,2012
+eu,Europe,eugrc,Greece,grc,212535.0,2012
+eu,Europe,euhrv,Croatia,hrv,12752786.0,2012
+eu,Europe,euhun,Hungary,hun,62530617.0,2012
+eu,Europe,euirl,Ireland,irl,10960.0,2012
+eu,Europe,euita,Italy,ita,873254858.0,2012
+eu,Europe,eultu,Lithuania,ltu,11693.0,2012
+eu,Europe,eulux,Luxembourg,lux,60080540.0,2012
+eu,Europe,eulva,Latvia,lva,199862.0,2012
+eu,Europe,eumkd,North Macedonia,mkd,1284512.0,2012
+eu,Europe,eumlt,Malta,mlt,4403.0,2012
+eu,Europe,eunld,Netherlands,nld,1468558132.0,2012
+eu,Europe,eunor,Norway,nor,13307365.0,2012
+eu,Europe,eupol,Poland,pol,511023235.0,2012
+eu,Europe,euprt,Portugal,prt,168441.00000000003,2012
+eu,Europe,eurou,Romania,rou,143781804.0,2012
+eu,Europe,eurus,Russia,rus,580742565.9999999,2012
+eu,Europe,eusrb,Serbia,srb,22549516.0,2012
+eu,Europe,eusvk,Slovakia,svk,188832689.0,2012
+eu,Europe,eusvn,Slovenia,svn,61901956.0,2012
+eu,Europe,euswe,Sweden,swe,16892464.0,2012
+eu,Europe,euukr,Ukraine,ukr,120352389.0,2012
+na,North America,nabhs,Bahamas,bhs,352.00000000000006,2012
+na,North America,nabrb,Barbados,brb,99484.0,2012
+na,North America,nacan,Canada,can,66253732.0,2012
+na,North America,nacri,Costa Rica,cri,19057.000000000004,2012
+na,North America,nacub,Cuba,cub,18659.000000000004,2012
+na,North America,nacym,Cayman Islands,cym,263007.0,2012
+na,North America,nadom,Dominican Republic,dom,10097.0,2012
+na,North America,nagtm,Guatemala,gtm,13469.000000000002,2012
+na,North America,najam,Jamaica,jam,24.0,2012
+na,North America,namex,Mexico,mex,102668062.0,2012
+na,North America,napan,Panama,pan,33971.0,2012
+na,North America,naslv,El Salvador,slv,4193.000000000001,2012
+na,North America,natto,Trinidad and Tobago,tto,289851065.0,2012
+na,North America,nausa,United States,usa,199017424.0,2012
+oc,Oceania,ocaus,Australia,aus,29819817.0,2012
+oc,Oceania,ocfji,Fiji,fji,2505.0,2012
+oc,Oceania,ocncl,New Caledonia,ncl,197523.0,2012
+oc,Oceania,ocnzl,New Zealand,nzl,144227.0,2012
+oc,Oceania,ocpng,Papua New Guinea,png,72261.0,2012
+sa,South America,saarg,Argentina,arg,314952462.0,2012
+sa,South America,sabra,Brazil,bra,7325902.999999999,2012
+sa,South America,sachl,Chile,chl,117099.0,2012
+sa,South America,sacol,Colombia,col,1507188.0,2012
+sa,South America,saecu,Ecuador,ecu,3002.0,2012
+sa,South America,saper,Peru,per,117756.0,2012
+sa,South America,sapry,Paraguay,pry,4515396.0,2012
+sa,South America,saven,Venezuela,ven,298155788.0,2012
+af,Africa,afago,Angola,ago,345.0,2012
+af,Africa,afbwa,Botswana,bwa,213.0,2012
+af,Africa,afcod,Democratic Republic of the Congo,cod,128104.0,2012
+af,Africa,afcog,Republic of the Congo,cog,39.0,2012
+af,Africa,afdza,Algeria,dza,1342937.9999999998,2012
+af,Africa,afegy,Egypt,egy,661421693.0,2012
+af,Africa,afeth,Ethiopia,eth,996.0,2012
+af,Africa,afgha,Ghana,gha,13950.999999999998,2012
+af,Africa,afgnq,Equatorial Guinea,gnq,3154.0,2012
+af,Africa,aflby,Libya,lby,120767495.0,2012
+af,Africa,aflso,Lesotho,lso,433.0,2012
+af,Africa,afmar,Morocco,mar,127937.0,2012
+af,Africa,afmoz,Mozambique,moz,1861058.0,2012
+af,Africa,afmus,Mauritius,mus,408370.0,2012
+af,Africa,afnam,Namibia,nam,12378.0,2012
+af,Africa,afswz,Eswatini,swz,360.0,2012
+af,Africa,afzaf,South Africa,zaf,77319833.0,2012
+af,Africa,afzwe,Zimbabwe,zwe,43833.0,2012
+as,Asia,asare,United Arab Emirates,are,618560531.0,2012
+as,Asia,asarm,Armenia,arm,184952.0,2012
+as,Asia,asbgd,Bangladesh,bgd,5934.999999999999,2012
+as,Asia,asbhr,Bahrain,bhr,11796.0,2012
+as,Asia,aschn,China,chn,5119819204.0,2012
+as,Asia,ascyp,Cyprus,cyp,151.0,2012
+as,Asia,ashkg,Hong Kong,hkg,5315483.0,2012
+as,Asia,asidn,Indonesia,idn,144708333.0,2012
+as,Asia,asind,India,ind,376965523.0,2012
+as,Asia,asiot,British Indian Ocean Territory,iot,7509721.0,2012
+as,Asia,asirn,Iran,irn,87477164.0,2012
+as,Asia,asjpn,Japan,jpn,1668566312.0,2012
+as,Asia,askhm,Cambodia,khm,71968.0,2012
+as,Asia,askor,South Korea,kor,763327983.0,2012
+as,Asia,asmmr,Burma,mmr,855.0,2012
+as,Asia,asmng,Mongolia,mng,43840.0,2012
+as,Asia,asmys,Malaysia,mys,626194021.0,2012
+as,Asia,asnpl,Nepal,npl,7732.0,2012
+as,Asia,asomn,Oman,omn,207398085.0,2012
+as,Asia,aspak,Pakistan,pak,12493338.0,2012
+as,Asia,asqat,Qatar,qat,945254922.0,2012
+as,Asia,assau,Saudi Arabia,sau,919631190.0,2012
+as,Asia,assgp,Singapore,sgp,17451567.0,2012
+as,Asia,assyr,Syria,syr,407456.0,2012
+as,Asia,astha,Thailand,tha,217670.0,2012
+as,Asia,astur,Turkey,tur,515388858.0,2012
+as,Asia,astwn,Chinese Taipei,twn,338227005.0,2012
+as,Asia,asvnm,Vietnam,vnm,1391423.0,2012
+as,Asia,asyem,Yemen,yem,487050.0,2012
+eu,Europe,euaut,Austria,aut,370750178.0,2012
+eu,Europe,eubel,Belgium,bel,184597084.0,2012
+eu,Europe,eubgr,Bulgaria,bgr,299919.0,2012
+eu,Europe,eublr,Belarus,blr,141365.0,2012
+eu,Europe,euche,Switzerland,che,3.0,2012
+eu,Europe,eucze,Czechia,cze,170864271.0,2012
+eu,Europe,eudeu,Germany,deu,1215366799.0,2012
+eu,Europe,eudnk,Denmark,dnk,2104542.0,2012
+eu,Europe,euesp,Spain,esp,122103575.0,2012
+eu,Europe,eufin,Finland,fin,470099323.0,2012
+eu,Europe,eufra,France,fra,466741035.0,2012
+eu,Europe,eugbr,United Kingdom,gbr,496698147.0,2012
+eu,Europe,eugrc,Greece,grc,20263.0,2012
+eu,Europe,euhrv,Croatia,hrv,18704980.0,2012
+eu,Europe,euhun,Hungary,hun,119878269.0,2012
+eu,Europe,euirl,Ireland,irl,559068.0,2012
+eu,Europe,euisl,Iceland,isl,2634830.9999999995,2012
+eu,Europe,euita,Italy,ita,770826147.0,2012
+eu,Europe,eultu,Lithuania,ltu,1043.0,2012
+eu,Europe,eulux,Luxembourg,lux,5730.0,2012
+eu,Europe,eulva,Latvia,lva,7306.0,2012
+eu,Europe,eunld,Netherlands,nld,1623825761.0,2012
+eu,Europe,eunor,Norway,nor,8395906.0,2012
+eu,Europe,eupol,Poland,pol,11722821.0,2012
+eu,Europe,euprt,Portugal,prt,12327.0,2012
+eu,Europe,eurou,Romania,rou,40139370.0,2012
+eu,Europe,eurus,Russia,rus,354044073.0,2012
+eu,Europe,eusrb,Serbia,srb,21491942.000000004,2012
+eu,Europe,eusvk,Slovakia,svk,308452028.0,2012
+eu,Europe,euswe,Sweden,swe,597319.0,2012
+eu,Europe,euukr,Ukraine,ukr,71153990.0,2012
+na,North America,nacan,Canada,can,880517534.0,2012
+na,North America,namex,Mexico,mex,25702901.0,2012
+na,North America,natto,Trinidad and Tobago,tto,608952896.0,2012
+na,North America,nausa,United States,usa,771495043.0,2012
+oc,Oceania,ocaus,Australia,aus,85628981.0,2012
+oc,Oceania,ocfsm,Micronesia,fsm,400.0,2012
+oc,Oceania,ocnzl,New Zealand,nzl,4741.000000000001,2012
+sa,South America,saarg,Argentina,arg,443367586.0,2012
+sa,South America,sabol,Bolivia,bol,55.99999999999999,2012
+sa,South America,sachl,Chile,chl,377.0,2012
+sa,South America,sacol,Colombia,col,42669.0,2012
+sa,South America,saven,Venezuela,ven,36786051.0,2012
+af,Africa,afago,Angola,ago,436.0,2013
+af,Africa,afbfa,Burkina Faso,bfa,213.00000000000003,2013
+af,Africa,afbwa,Botswana,bwa,27073.0,2013
+af,Africa,afciv,Cote d'Ivoire,civ,6594.000000000001,2013
+af,Africa,afcmr,Cameroon,cmr,91470.0,2013
+af,Africa,afcod,Democratic Republic of the Congo,cod,29445.0,2013
+af,Africa,afcog,Republic of the Congo,cog,20694.000000000004,2013
+af,Africa,afdza,Algeria,dza,245496.0,2013
+af,Africa,afegy,Egypt,egy,198718.0,2013
+af,Africa,aferi,Eritrea,eri,215.0,2013
+af,Africa,afeth,Ethiopia,eth,26640.0,2013
+af,Africa,afgha,Ghana,gha,3087.0000000000005,2013
+af,Africa,afgin,Guinea,gin,807.9999999999999,2013
+af,Africa,afgnb,Guinea-Bissau,gnb,60.0,2013
+af,Africa,afken,Kenya,ken,755.0,2013
+af,Africa,aflbr,Liberia,lbr,247.0,2013
+af,Africa,aflso,Lesotho,lso,4956.0,2013
+af,Africa,afmar,Morocco,mar,90591.0,2013
+af,Africa,afmoz,Mozambique,moz,22445414.0,2013
+af,Africa,afmrt,Mauritania,mrt,10.0,2013
+af,Africa,afnam,Namibia,nam,15805.0,2013
+af,Africa,afsle,Sierra Leone,sle,73002.0,2013
+af,Africa,afssd,South Sudan,ssd,3854.0,2013
+af,Africa,afswz,Eswatini,swz,1147.0,2013
+af,Africa,aftun,Tunisia,tun,511375.0,2013
+af,Africa,aftza,Tanzania,tza,2243967.0,2013
+af,Africa,afzaf,South Africa,zaf,5587563.0,2013
+af,Africa,afzmb,Zambia,zmb,2718.9999999999995,2013
+af,Africa,afzwe,Zimbabwe,zwe,7572.999999999999,2013
+as,Asia,asare,United Arab Emirates,are,32856713.0,2013
+as,Asia,asaze,Azerbaijan,aze,330205.0,2013
+as,Asia,asbhr,Bahrain,bhr,316697261.0,2013
+as,Asia,aschn,China,chn,83258288559.0,2013
+as,Asia,ascyp,Cyprus,cyp,49012.00000000001,2013
+as,Asia,ashkg,Hong Kong,hkg,35489275.0,2013
+as,Asia,asidn,Indonesia,idn,190720601.0,2013
+as,Asia,asind,India,ind,36473431.0,2013
+as,Asia,asirn,Iran,irn,1960.0,2013
+as,Asia,asirq,Iraq,irq,2565110.0,2013
+as,Asia,asisr,Israel,isr,47862.0,2013
+as,Asia,asjor,Jordan,jor,1072978.0,2013
+as,Asia,asjpn,Japan,jpn,12761095154.000002,2013
+as,Asia,askaz,Kazakhstan,kaz,8758.0,2013
+as,Asia,askgz,Kyrgyzstan,kgz,937111.0,2013
+as,Asia,askor,South Korea,kor,6904943904.0,2013
+as,Asia,askwt,Kuwait,kwt,330260.0,2013
+as,Asia,aslbn,Lebanon,lbn,6.0,2013
+as,Asia,aslka,Sri Lanka,lka,10390.0,2013
+as,Asia,asmng,Mongolia,mng,47025.0,2013
+as,Asia,asmys,Malaysia,mys,172390904.0,2013
+as,Asia,asnpl,Nepal,npl,224995.0,2013
+as,Asia,asomn,Oman,omn,981530489.0,2013
+as,Asia,aspak,Pakistan,pak,27444321.0,2013
+as,Asia,asphl,Philippines,phl,635391513.0,2013
+as,Asia,aspse,Palestine,pse,2205369.0,2013
+as,Asia,asqat,Qatar,qat,8364579.0,2013
+as,Asia,assau,Saudi Arabia,sau,1378617.0,2013
+as,Asia,assgp,Singapore,sgp,472073332.0,2013
+as,Asia,astha,Thailand,tha,2170078.0,2013
+as,Asia,astjk,Tajikistan,tjk,14000.0,2013
+as,Asia,astkm,Turkmenistan,tkm,853313.0,2013
+as,Asia,astls,Timor-Leste,tls,57133.0,2013
+as,Asia,astur,Turkey,tur,285023898.00000006,2013
+as,Asia,astwn,Chinese Taipei,twn,2196074488.0,2013
+as,Asia,asvnm,Vietnam,vnm,1917008.0,2013
+eu,Europe,euaut,Austria,aut,70726807.0,2013
+eu,Europe,eubel,Belgium,bel,305242332.0,2013
+eu,Europe,eubgr,Bulgaria,bgr,267847.0,2013
+eu,Europe,eubih,Bosnia and Herzegovina,bih,98972.0,2013
+eu,Europe,eublr,Belarus,blr,201354.0,2013
+eu,Europe,euche,Switzerland,che,1058370.0,2013
+eu,Europe,eucze,Czechia,cze,462900108.0,2013
+eu,Europe,eudeu,Germany,deu,1398434677.0,2013
+eu,Europe,eudnk,Denmark,dnk,5352588.0,2013
+eu,Europe,euesp,Spain,esp,356305922.0,2013
+eu,Europe,euest,Estonia,est,226278.0,2013
+eu,Europe,eufin,Finland,fin,775252.0,2013
+eu,Europe,eufra,France,fra,1126591581.0,2013
+eu,Europe,eugbr,United Kingdom,gbr,913057371.0,2013
+eu,Europe,eugrc,Greece,grc,203675.0,2013
+eu,Europe,euhrv,Croatia,hrv,16242919.0,2013
+eu,Europe,euhun,Hungary,hun,69416117.0,2013
+eu,Europe,euirl,Ireland,irl,11003.0,2013
+eu,Europe,euita,Italy,ita,768918886.0,2013
+eu,Europe,eultu,Lithuania,ltu,12473.0,2013
+eu,Europe,eulux,Luxembourg,lux,13970680.0,2013
+eu,Europe,eulva,Latvia,lva,439707.0,2013
+eu,Europe,eumda,Moldova,mda,11633.0,2013
+eu,Europe,eumkd,North Macedonia,mkd,3004482.0,2013
+eu,Europe,eunld,Netherlands,nld,1641042773.0,2013
+eu,Europe,eunor,Norway,nor,12559310.0,2013
+eu,Europe,eupol,Poland,pol,572540359.0,2013
+eu,Europe,euprt,Portugal,prt,210556.00000000003,2013
+eu,Europe,eurou,Romania,rou,207998363.0,2013
+eu,Europe,eurus,Russia,rus,553690222.0,2013
+eu,Europe,eusrb,Serbia,srb,23195704.0,2013
+eu,Europe,eusvk,Slovakia,svk,196173393.0,2013
+eu,Europe,eusvn,Slovenia,svn,83820588.0,2013
+eu,Europe,euswe,Sweden,swe,7209548.0,2013
+eu,Europe,euukr,Ukraine,ukr,205926345.0,2013
+na,North America,nabhs,Bahamas,bhs,50111.00000000001,2013
+na,North America,nablm,Saint Barthélemy,blm,1017.0,2013
+na,North America,nabrb,Barbados,brb,197005.0,2013
+na,North America,nacan,Canada,can,29105957.0,2013
+na,North America,nacri,Costa Rica,cri,48774.99999999999,2013
+na,North America,nadom,Dominican Republic,dom,1517.0,2013
+na,North America,nagtm,Guatemala,gtm,6018.0,2013
+na,North America,namex,Mexico,mex,109253403.0,2013
+na,North America,nanic,Nicaragua,nic,64.0,2013
+na,North America,napan,Panama,pan,2047680.0,2013
+na,North America,naslv,El Salvador,slv,4458.0,2013
+na,North America,natto,Trinidad and Tobago,tto,268030238.0,2013
+na,North America,nausa,United States,usa,89240229.0,2013
+oc,Oceania,ocaus,Australia,aus,19586730.0,2013
+oc,Oceania,ocncl,New Caledonia,ncl,117723.0,2013
+oc,Oceania,ocnzl,New Zealand,nzl,281610.0,2013
+oc,Oceania,ocpng,Papua New Guinea,png,220579.0,2013
+oc,Oceania,ocwsm,Samoa,wsm,166.99999999999997,2013
+sa,South America,saarg,Argentina,arg,387689223.0,2013
+sa,South America,sabol,Bolivia,bol,746.0,2013
+sa,South America,sabra,Brazil,bra,12630.0,2013
+sa,South America,sachl,Chile,chl,13183.0,2013
+sa,South America,sacol,Colombia,col,1109811.0,2013
+sa,South America,saecu,Ecuador,ecu,1328.0,2013
+sa,South America,saguy,Guyana,guy,526.0,2013
+sa,South America,saper,Peru,per,87658.0,2013
+sa,South America,sapry,Paraguay,pry,2710684.9999999995,2013
+sa,South America,saven,Venezuela,ven,31845.0,2013
+af,Africa,afago,Angola,ago,20.0,2013
+af,Africa,afbwa,Botswana,bwa,31175.0,2013
+af,Africa,afciv,Cote d'Ivoire,civ,434.0,2013
+af,Africa,afcod,Democratic Republic of the Congo,cod,106313.0,2013
+af,Africa,afdza,Algeria,dza,27.000000000000004,2013
+af,Africa,afegy,Egypt,egy,651403293.0,2013
+af,Africa,afeth,Ethiopia,eth,9815.0,2013
+af,Africa,aflby,Libya,lby,262280721.0,2013
+af,Africa,afmar,Morocco,mar,1938.0,2013
+af,Africa,afmoz,Mozambique,moz,287733.0,2013
+af,Africa,afmrt,Mauritania,mrt,4.0,2013
+af,Africa,afmus,Mauritius,mus,357105.0,2013
+af,Africa,afnam,Namibia,nam,16235.0,2013
+af,Africa,afsdn,Sudan,sdn,2418.0,2013
+af,Africa,afswz,Eswatini,swz,1495.0,2013
+af,Africa,afzaf,South Africa,zaf,53816609.99999999,2013
+af,Africa,afzmb,Zambia,zmb,2735.0,2013
+af,Africa,afzwe,Zimbabwe,zwe,5952.000000000001,2013
+as,Asia,asare,United Arab Emirates,are,686078321.0,2013
+as,Asia,asarm,Armenia,arm,171976.0,2013
+as,Asia,asbgd,Bangladesh,bgd,6195.0,2013
+as,Asia,aschn,China,chn,4133644711.0,2013
+as,Asia,ashkg,Hong Kong,hkg,22.000000000000004,2013
+as,Asia,asidn,Indonesia,idn,174929909.0,2013
+as,Asia,asind,India,ind,129865622.0,2013
+as,Asia,asirn,Iran,irn,37544368.0,2013
+as,Asia,asirq,Iraq,irq,19837.0,2013
+as,Asia,asisr,Israel,isr,5234.0,2013
+as,Asia,asjpn,Japan,jpn,1776432334.0,2013
+as,Asia,askaz,Kazakhstan,kaz,10174.0,2013
+as,Asia,askor,South Korea,kor,652646226.0,2013
+as,Asia,asmmr,Burma,mmr,12751.0,2013
+as,Asia,asmys,Malaysia,mys,289624059.0,2013
+as,Asia,asnpl,Nepal,npl,90105.0,2013
+as,Asia,asomn,Oman,omn,237930224.0,2013
+as,Asia,aspak,Pakistan,pak,7788375.0,2013
+as,Asia,asphl,Philippines,phl,2860361.0,2013
+as,Asia,asqat,Qatar,qat,700314985.0,2013
+as,Asia,assau,Saudi Arabia,sau,1147005378.0,2013
+as,Asia,assgp,Singapore,sgp,706789.0000000001,2013
+as,Asia,astha,Thailand,tha,191316.0,2013
+as,Asia,astkm,Turkmenistan,tkm,21365.0,2013
+as,Asia,astur,Turkey,tur,721666421.0,2013
+as,Asia,astwn,Chinese Taipei,twn,398406850.00000006,2013
+as,Asia,asvnm,Vietnam,vnm,27077617.0,2013
+as,Asia,asyem,Yemen,yem,1281503.0,2013
+eu,Europe,euaut,Austria,aut,321272128.0,2013
+eu,Europe,eubel,Belgium,bel,257844461.0,2013
+eu,Europe,eubgr,Bulgaria,bgr,16362098.0,2013
+eu,Europe,eublr,Belarus,blr,35425.0,2013
+eu,Europe,euche,Switzerland,che,200.0,2013
+eu,Europe,eucze,Czechia,cze,129116207.0,2013
+eu,Europe,eudeu,Germany,deu,1194520368.0,2013
+eu,Europe,eudnk,Denmark,dnk,2159045.0,2013
+eu,Europe,euesp,Spain,esp,284392770.0,2013
+eu,Europe,eufin,Finland,fin,351160247.0,2013
+eu,Europe,eufra,France,fra,544782917.0,2013
+eu,Europe,eugbr,United Kingdom,gbr,645161321.0,2013
+eu,Europe,eugrc,Greece,grc,136376.0,2013
+eu,Europe,euhrv,Croatia,hrv,53.0,2013
+eu,Europe,euhun,Hungary,hun,5650520.0,2013
+eu,Europe,euisl,Iceland,isl,3068550.0,2013
+eu,Europe,euita,Italy,ita,525452882.0,2013
+eu,Europe,eultu,Lithuania,ltu,1210.9999999999998,2013
+eu,Europe,eulux,Luxembourg,lux,258.0,2013
+eu,Europe,eumda,Moldova,mda,402.0,2013
+eu,Europe,eunld,Netherlands,nld,1586515193.0,2013
+eu,Europe,eunor,Norway,nor,9277294.0,2013
+eu,Europe,eupol,Poland,pol,93021737.0,2013
+eu,Europe,eurou,Romania,rou,44161548.00000001,2013
+eu,Europe,eurus,Russia,rus,291787781.0,2013
+eu,Europe,eusrb,Serbia,srb,31418417.0,2013
+eu,Europe,eusvk,Slovakia,svk,331089377.0,2013
+eu,Europe,euukr,Ukraine,ukr,63749471.0,2013
+na,North America,nabhs,Bahamas,bhs,48000.0,2013
+na,North America,nabrb,Barbados,brb,23520.0,2013
+na,North America,nacan,Canada,can,889653893.0,2013
+na,North America,nacuw,Curaçao,cuw,620.0,2013
+na,North America,namex,Mexico,mex,19316139.0,2013
+na,North America,napan,Panama,pan,3566.0000000000005,2013
+na,North America,natto,Trinidad and Tobago,tto,559057028.0,2013
+na,North America,nausa,United States,usa,306449448.0,2013
+oc,Oceania,ocaus,Australia,aus,61131450.0,2013
+oc,Oceania,ocnzl,New Zealand,nzl,9866.0,2013
+sa,South America,saarg,Argentina,arg,501819298.0,2013
+sa,South America,sabol,Bolivia,bol,1457.0,2013
+sa,South America,sabra,Brazil,bra,1318.0,2013
+sa,South America,sachl,Chile,chl,148.00000000000003,2013
+sa,South America,sacol,Colombia,col,22964.0,2013
+sa,South America,saven,Venezuela,ven,14269.0,2013
+af,Africa,afbwa,Botswana,bwa,18237.000000000004,2014
+af,Africa,afciv,Cote d'Ivoire,civ,25026.0,2014
+af,Africa,afcmr,Cameroon,cmr,1732.9999999999998,2014
+af,Africa,afcod,Democratic Republic of the Congo,cod,33618.0,2014
+af,Africa,afcog,Republic of the Congo,cog,99174.0,2014
+af,Africa,afcom,Comoros,com,46.0,2014
+af,Africa,afdza,Algeria,dza,109852.0,2014
+af,Africa,afegy,Egypt,egy,9526049.0,2014
+af,Africa,aferi,Eritrea,eri,400.0,2014
+af,Africa,afeth,Ethiopia,eth,4637.0,2014
+af,Africa,afgha,Ghana,gha,2083.0,2014
+af,Africa,afgin,Guinea,gin,93338.0,2014
+af,Africa,afken,Kenya,ken,849148.0,2014
+af,Africa,aflbr,Liberia,lbr,5021.0,2014
+af,Africa,aflby,Libya,lby,33.0,2014
+af,Africa,aflso,Lesotho,lso,166.99999999999997,2014
+af,Africa,afmar,Morocco,mar,37102.0,2014
+af,Africa,afmdg,Madagascar,mdg,1412.0,2014
+af,Africa,afmoz,Mozambique,moz,5701454.0,2014
+af,Africa,afmrt,Mauritania,mrt,60.0,2014
+af,Africa,afmus,Mauritius,mus,213.0,2014
+af,Africa,afnam,Namibia,nam,23058.0,2014
+af,Africa,afnga,Nigeria,nga,56436.0,2014
+af,Africa,afssd,South Sudan,ssd,6559.0,2014
+af,Africa,afswz,Eswatini,swz,207.0,2014
+af,Africa,aftun,Tunisia,tun,385958.0,2014
+af,Africa,aftza,Tanzania,tza,6.999999999999999,2014
+af,Africa,afzaf,South Africa,zaf,36184.0,2014
+af,Africa,afzmb,Zambia,zmb,5707.999999999999,2014
+af,Africa,afzwe,Zimbabwe,zwe,80.0,2014
+as,Asia,asare,United Arab Emirates,are,6187975.0,2014
+as,Asia,asaze,Azerbaijan,aze,48292.0,2014
+as,Asia,asbhr,Bahrain,bhr,428922408.0,2014
+as,Asia,aschn,China,chn,70339177165.0,2014
+as,Asia,ascyp,Cyprus,cyp,66192.0,2014
+as,Asia,asgeo,Georgia,geo,891555.0,2014
+as,Asia,ashkg,Hong Kong,hkg,406757227.0,2014
+as,Asia,asidn,Indonesia,idn,275395143.0,2014
+as,Asia,asind,India,ind,372329586.0,2014
+as,Asia,asirn,Iran,irn,8266.0,2014
+as,Asia,asirq,Iraq,irq,1879485.0,2014
+as,Asia,asisr,Israel,isr,67599.0,2014
+as,Asia,asjor,Jordan,jor,360831.0,2014
+as,Asia,asjpn,Japan,jpn,10791777795.0,2014
+as,Asia,askaz,Kazakhstan,kaz,7423.0,2014
+as,Asia,askgz,Kyrgyzstan,kgz,618774.0,2014
+as,Asia,askor,South Korea,kor,6407202109.0,2014
+as,Asia,askwt,Kuwait,kwt,127086.0,2014
+as,Asia,aslbn,Lebanon,lbn,770.0,2014
+as,Asia,asmmr,Burma,mmr,217171.0,2014
+as,Asia,asmng,Mongolia,mng,63568.00000000001,2014
+as,Asia,asmys,Malaysia,mys,354457093.0,2014
+as,Asia,asnpl,Nepal,npl,179685.0,2014
+as,Asia,asomn,Oman,omn,683820050.9999999,2014
+as,Asia,aspak,Pakistan,pak,36875864.0,2014
+as,Asia,asphl,Philippines,phl,458089598.0,2014
+as,Asia,aspse,Palestine,pse,777896.9999999999,2014
+as,Asia,asqat,Qatar,qat,1051334.0,2014
+as,Asia,assau,Saudi Arabia,sau,3783914.0,2014
+as,Asia,assgp,Singapore,sgp,112351218.0,2014
+as,Asia,astha,Thailand,tha,1052979.0,2014
+as,Asia,astjk,Tajikistan,tjk,132660.0,2014
+as,Asia,astkm,Turkmenistan,tkm,3609973.0,2014
+as,Asia,astur,Turkey,tur,266725169.0,2014
+as,Asia,astwn,Chinese Taipei,twn,1810747770.0,2014
+as,Asia,asvnm,Vietnam,vnm,6256148.0,2014
+eu,Europe,eualb,Albania,alb,491882.0,2014
+eu,Europe,euand,Andorra,and,31693473.0,2014
+eu,Europe,euaut,Austria,aut,50551285.00000001,2014
+eu,Europe,eubel,Belgium,bel,326071438.0,2014
+eu,Europe,eubgr,Bulgaria,bgr,382510.0,2014
+eu,Europe,eubih,Bosnia and Herzegovina,bih,2504105.9999999995,2014
+eu,Europe,eublr,Belarus,blr,319372.0,2014
+eu,Europe,euche,Switzerland,che,47865118.0,2014
+eu,Europe,eucze,Czechia,cze,442293836.0,2014
+eu,Europe,eudeu,Germany,deu,992989885.0,2014
+eu,Europe,eudnk,Denmark,dnk,2093420.0,2014
+eu,Europe,euesp,Spain,esp,294274284.0,2014
+eu,Europe,euest,Estonia,est,404716.0,2014
+eu,Europe,eufin,Finland,fin,565199.0,2014
+eu,Europe,eufra,France,fra,930426076.0,2014
+eu,Europe,eugbr,United Kingdom,gbr,758021166.0,2014
+eu,Europe,eugrc,Greece,grc,44529.0,2014
+eu,Europe,euhrv,Croatia,hrv,9195142.0,2014
+eu,Europe,euhun,Hungary,hun,66957746.0,2014
+eu,Europe,euirl,Ireland,irl,126595.0,2014
+eu,Europe,euisl,Iceland,isl,3427.0,2014
+eu,Europe,euita,Italy,ita,570608506.0,2014
+eu,Europe,eultu,Lithuania,ltu,120581.0,2014
+eu,Europe,eulux,Luxembourg,lux,51192.0,2014
+eu,Europe,eulva,Latvia,lva,657650.0,2014
+eu,Europe,eumda,Moldova,mda,292357.0,2014
+eu,Europe,eumkd,North Macedonia,mkd,2684458.0,2014
+eu,Europe,eumlt,Malta,mlt,9.000000000000002,2014
+eu,Europe,eumne,Montenegro,mne,1615.9999999999998,2014
+eu,Europe,eunld,Netherlands,nld,1230917780.0,2014
+eu,Europe,eunor,Norway,nor,19265087.0,2014
+eu,Europe,eupol,Poland,pol,480432634.0,2014
+eu,Europe,euprt,Portugal,prt,71036.0,2014
+eu,Europe,eurou,Romania,rou,138968009.0,2014
+eu,Europe,eurus,Russia,rus,383559813.0,2014
+eu,Europe,eusrb,Serbia,srb,29817319.0,2014
+eu,Europe,eusvk,Slovakia,svk,186730127.0,2014
+eu,Europe,eusvn,Slovenia,svn,79353620.99999999,2014
+eu,Europe,euswe,Sweden,swe,6942675.0,2014
+eu,Europe,euukr,Ukraine,ukr,163442575.00000003,2014
+na,North America,nabhs,Bahamas,bhs,854.0000000000001,2014
+na,North America,nabrb,Barbados,brb,83096.0,2014
+na,North America,nacan,Canada,can,48101113.99999999,2014
+na,North America,nacri,Costa Rica,cri,49218.99999999999,2014
+na,North America,nakna,Saint Kitts and Nevis,kna,66.0,2014
+na,North America,namex,Mexico,mex,26647323.0,2014
+na,North America,napan,Panama,pan,1725000.0,2014
+na,North America,naslv,El Salvador,slv,104.0,2014
+na,North America,natto,Trinidad and Tobago,tto,314090488.0,2014
+na,North America,nausa,United States,usa,81687186.0,2014
+oc,Oceania,ocaus,Australia,aus,20158229.0,2014
+oc,Oceania,ocfji,Fiji,fji,219.0,2014
+oc,Oceania,ocncl,New Caledonia,ncl,281966.0,2014
+oc,Oceania,ocnzl,New Zealand,nzl,112237.0,2014
+oc,Oceania,ocpyf,French Polynesia,pyf,161.0,2014
+sa,South America,saarg,Argentina,arg,462898540.0,2014
+sa,South America,sabol,Bolivia,bol,935.0,2014
+sa,South America,sabra,Brazil,bra,514712.0,2014
+sa,South America,sachl,Chile,chl,54701.0,2014
+sa,South America,sacol,Colombia,col,170972.0,2014
+sa,South America,saecu,Ecuador,ecu,2235.0,2014
+sa,South America,saper,Peru,per,57484.00000000001,2014
+sa,South America,sapry,Paraguay,pry,4671109.0,2014
+sa,South America,sasur,Suriname,sur,603275.0,2014
+sa,South America,saury,Uruguay,ury,17273.0,2014
+sa,South America,saven,Venezuela,ven,2099.0,2014
+af,Africa,afago,Angola,ago,1135.0,2014
+af,Africa,afbwa,Botswana,bwa,3239.0,2014
+af,Africa,afcod,Democratic Republic of the Congo,cod,65182.0,2014
+af,Africa,afcog,Republic of the Congo,cog,79908.0,2014
+af,Africa,afcom,Comoros,com,27.000000000000004,2014
+af,Africa,afegy,Egypt,egy,663597503.0,2014
+af,Africa,afgab,Gabon,gab,95278.0,2014
+af,Africa,aflbr,Liberia,lbr,49.0,2014
+af,Africa,aflby,Libya,lby,169726903.00000003,2014
+af,Africa,afmar,Morocco,mar,15256.0,2014
+af,Africa,afmoz,Mozambique,moz,528356.0,2014
+af,Africa,afmus,Mauritius,mus,239472.0,2014
+af,Africa,afnam,Namibia,nam,4430.0,2014
+af,Africa,afnga,Nigeria,nga,3348.0000000000005,2014
+af,Africa,afssd,South Sudan,ssd,4043.0,2014
+af,Africa,afswz,Eswatini,swz,282.0,2014
+af,Africa,afzaf,South Africa,zaf,50365169.0,2014
+af,Africa,afzmb,Zambia,zmb,17162.0,2014
+af,Africa,afzwe,Zimbabwe,zwe,3284.0,2014
+as,Asia,asare,United Arab Emirates,are,785573950.0,2014
+as,Asia,asarm,Armenia,arm,250738.0,2014
+as,Asia,asbhr,Bahrain,bhr,15362441.0,2014
+as,Asia,aschn,China,chn,2539936566.0,2014
+as,Asia,asgeo,Georgia,geo,5438.0,2014
+as,Asia,ashkg,Hong Kong,hkg,397417.0,2014
+as,Asia,asidn,Indonesia,idn,27388427.0,2014
+as,Asia,asind,India,ind,418462813.0,2014
+as,Asia,asirn,Iran,irn,436893174.0,2014
+as,Asia,asirq,Iraq,irq,1076765.0,2014
+as,Asia,asjpn,Japan,jpn,1769997244.0,2014
+as,Asia,askaz,Kazakhstan,kaz,7921.0,2014
+as,Asia,askhm,Cambodia,khm,73789.0,2014
+as,Asia,askor,South Korea,kor,837521396.0,2014
+as,Asia,askwt,Kuwait,kwt,9550.0,2014
+as,Asia,asmmr,Burma,mmr,218.0,2014
+as,Asia,asmys,Malaysia,mys,303926277.0,2014
+as,Asia,asnpl,Nepal,npl,78358.0,2014
+as,Asia,asomn,Oman,omn,229766374.0,2014
+as,Asia,aspak,Pakistan,pak,6990401.999999999,2014
+as,Asia,asphl,Philippines,phl,1675000.0,2014
+as,Asia,asqat,Qatar,qat,472269640.0,2014
+as,Asia,assau,Saudi Arabia,sau,1021123961.0,2014
+as,Asia,assgp,Singapore,sgp,278705.0,2014
+as,Asia,astha,Thailand,tha,99893.0,2014
+as,Asia,astjk,Tajikistan,tjk,1000.0,2014
+as,Asia,astkm,Turkmenistan,tkm,8660.0,2014
+as,Asia,astur,Turkey,tur,627468667.0,2014
+as,Asia,astwn,Chinese Taipei,twn,243340468.0,2014
+as,Asia,asvnm,Vietnam,vnm,5220333.0,2014
+eu,Europe,euand,Andorra,and,93225539.0,2014
+eu,Europe,euaut,Austria,aut,300001322.0,2014
+eu,Europe,eubel,Belgium,bel,254964129.0,2014
+eu,Europe,eubgr,Bulgaria,bgr,755935.0,2014
+eu,Europe,eublr,Belarus,blr,41154.0,2014
+eu,Europe,euche,Switzerland,che,56045.0,2014
+eu,Europe,eucze,Czechia,cze,116703376.0,2014
+eu,Europe,eudeu,Germany,deu,1083134375.0,2014
+eu,Europe,eudnk,Denmark,dnk,1541182.0,2014
+eu,Europe,euesp,Spain,esp,160238916.0,2014
+eu,Europe,eufin,Finland,fin,350457472.0,2014
+eu,Europe,eufra,France,fra,468694534.0,2014
+eu,Europe,eugbr,United Kingdom,gbr,681747954.0,2014
+eu,Europe,eugib,Gibraltar,gib,2151.0,2014
+eu,Europe,euhrv,Croatia,hrv,13992136.999999998,2014
+eu,Europe,euhun,Hungary,hun,30327799.0,2014
+eu,Europe,euirl,Ireland,irl,2683.0,2014
+eu,Europe,euisl,Iceland,isl,3050998.0,2014
+eu,Europe,euita,Italy,ita,357990010.00000006,2014
+eu,Europe,eulux,Luxembourg,lux,869257.0,2014
+eu,Europe,eunld,Netherlands,nld,1277353749.0,2014
+eu,Europe,eunor,Norway,nor,3483219.0,2014
+eu,Europe,eupol,Poland,pol,40876944.0,2014
+eu,Europe,eurou,Romania,rou,34482212.0,2014
+eu,Europe,eurus,Russia,rus,345591326.99999994,2014
+eu,Europe,eusrb,Serbia,srb,36569091.99999999,2014
+eu,Europe,eusvk,Slovakia,svk,263345447.0,2014
+eu,Europe,euswe,Sweden,swe,31717.0,2014
+eu,Europe,euukr,Ukraine,ukr,51576997.99999999,2014
+na,North America,nacan,Canada,can,1024082941.0,2014
+na,North America,nacri,Costa Rica,cri,2825.0,2014
+na,North America,namex,Mexico,mex,122480604.0,2014
+na,North America,naslv,El Salvador,slv,838.0,2014
+na,North America,natto,Trinidad and Tobago,tto,508098356.00000006,2014
+na,North America,nausa,United States,usa,570529888.9999999,2014
+oc,Oceania,ocaus,Australia,aus,74057029.0,2014
+oc,Oceania,ocncl,New Caledonia,ncl,45.0,2014
+oc,Oceania,ocnzl,New Zealand,nzl,546.0,2014
+oc,Oceania,ocpyf,French Polynesia,pyf,86.0,2014
+sa,South America,saarg,Argentina,arg,482476601.0,2014
+sa,South America,sabol,Bolivia,bol,2827.0,2014
+sa,South America,sabra,Brazil,bra,1131.0000000000002,2014
+sa,South America,sachl,Chile,chl,479.0,2014
+sa,South America,sacol,Colombia,col,14249.0,2014
+sa,South America,saven,Venezuela,ven,31223805.0,2014
+af,Africa,afago,Angola,ago,1324.0,2015
+af,Africa,afben,Benin,ben,1.0,2015
+af,Africa,afbwa,Botswana,bwa,34135.99999999999,2015
+af,Africa,afciv,Cote d'Ivoire,civ,1.0,2015
+af,Africa,afcmr,Cameroon,cmr,1.0,2015
+af,Africa,afcod,Democratic Republic of the Congo,cod,115688.0,2015
+af,Africa,afcog,Republic of the Congo,cog,2.0,2015
+af,Africa,afdza,Algeria,dza,131448.0,2015
+af,Africa,afegy,Egypt,egy,1229.0,2015
+af,Africa,afgab,Gabon,gab,1.0,2015
+af,Africa,afgha,Ghana,gha,3727.0,2015
+af,Africa,afgmb,Gambia,gmb,27.000000000000004,2015
+af,Africa,afken,Kenya,ken,1212236.0,2015
+af,Africa,aflso,Lesotho,lso,16.0,2015
+af,Africa,afmar,Morocco,mar,4797.0,2015
+af,Africa,afmli,Mali,mli,1.0,2015
+af,Africa,afmoz,Mozambique,moz,887446.0000000001,2015
+af,Africa,afnam,Namibia,nam,5343.999999999999,2015
+af,Africa,afnga,Nigeria,nga,2970.0,2015
+af,Africa,afsdn,Sudan,sdn,1.0,2015
+af,Africa,afswz,Eswatini,swz,1192.0,2015
+af,Africa,aftgo,Togo,tgo,469.0,2015
+af,Africa,aftun,Tunisia,tun,475715.0,2015
+af,Africa,aftza,Tanzania,tza,124550.0,2015
+af,Africa,afzaf,South Africa,zaf,16258.0,2015
+as,Asia,asare,United Arab Emirates,are,9754548.0,2015
+as,Asia,asarm,Armenia,arm,10079.0,2015
+as,Asia,asaze,Azerbaijan,aze,374161.0,2015
+as,Asia,asbgd,Bangladesh,bgd,2.0,2015
+as,Asia,asbhr,Bahrain,bhr,253613910.0,2015
+as,Asia,aschn,China,chn,40391120043.0,2015
+as,Asia,ascyp,Cyprus,cyp,78779.0,2015
+as,Asia,asgeo,Georgia,geo,1209306.0,2015
+as,Asia,ashkg,Hong Kong,hkg,199733389.0,2015
+as,Asia,asidn,Indonesia,idn,219510194.0,2015
+as,Asia,asind,India,ind,249889913.0,2015
+as,Asia,asirn,Iran,irn,193650.0,2015
+as,Asia,asirq,Iraq,irq,4136133.0,2015
+as,Asia,asisr,Israel,isr,39682.0,2015
+as,Asia,asjor,Jordan,jor,2314128.0,2015
+as,Asia,asjpn,Japan,jpn,6780129018.0,2015
+as,Asia,askaz,Kazakhstan,kaz,3344455.0,2015
+as,Asia,askgz,Kyrgyzstan,kgz,1389.0,2015
+as,Asia,askor,South Korea,kor,3998327189.0,2015
+as,Asia,askwt,Kuwait,kwt,54590.0,2015
+as,Asia,aslbn,Lebanon,lbn,5727.0,2015
+as,Asia,aslka,Sri Lanka,lka,49.0,2015
+as,Asia,asmmr,Burma,mmr,127869.0,2015
+as,Asia,asmng,Mongolia,mng,4428.999999999999,2015
+as,Asia,asmys,Malaysia,mys,660598206.0,2015
+as,Asia,asnpl,Nepal,npl,825050.0,2015
+as,Asia,asomn,Oman,omn,350916185.0,2015
+as,Asia,aspak,Pakistan,pak,14253092.0,2015
+as,Asia,asphl,Philippines,phl,490903404.0,2015
+as,Asia,aspse,Palestine,pse,294970.0,2015
+as,Asia,asqat,Qatar,qat,4521390.0,2015
+as,Asia,assau,Saudi Arabia,sau,110582.0,2015
+as,Asia,assgp,Singapore,sgp,56697857.0,2015
+as,Asia,astha,Thailand,tha,458500.0,2015
+as,Asia,astjk,Tajikistan,tjk,197748.00000000003,2015
+as,Asia,astkm,Turkmenistan,tkm,1088627.0,2015
+as,Asia,astur,Turkey,tur,208089709.0,2015
+as,Asia,astwn,Chinese Taipei,twn,1058604050.0,2015
+as,Asia,asuzb,Uzbekistan,uzb,13192.0,2015
+as,Asia,asvnm,Vietnam,vnm,6457872.0,2015
+as,Asia,asyem,Yemen,yem,1.0,2015
+eu,Europe,euand,Andorra,and,1.0,2015
+eu,Europe,euaut,Austria,aut,10618354.0,2015
+eu,Europe,eubel,Belgium,bel,168952437.0,2015
+eu,Europe,eubgr,Bulgaria,bgr,29560.0,2015
+eu,Europe,eubih,Bosnia and Herzegovina,bih,3540202.0,2015
+eu,Europe,eublr,Belarus,blr,653624.0,2015
+eu,Europe,euche,Switzerland,che,24103295.0,2015
+eu,Europe,eucze,Czechia,cze,247668252.0,2015
+eu,Europe,eudeu,Germany,deu,449983745.0,2015
+eu,Europe,eudnk,Denmark,dnk,857527.0,2015
+eu,Europe,euesp,Spain,esp,164787969.0,2015
+eu,Europe,euest,Estonia,est,297072.0,2015
+eu,Europe,eufin,Finland,fin,282615.0,2015
+eu,Europe,eufra,France,fra,539116671.0,2015
+eu,Europe,eugbr,United Kingdom,gbr,385744962.0,2015
+eu,Europe,eugrc,Greece,grc,38026.0,2015
+eu,Europe,euhrv,Croatia,hrv,15931236.0,2015
+eu,Europe,euhun,Hungary,hun,28900914.0,2015
+eu,Europe,euirl,Ireland,irl,133948.0,2015
+eu,Europe,euisl,Iceland,isl,4.0,2015
+eu,Europe,euita,Italy,ita,338896192.0,2015
+eu,Europe,eultu,Lithuania,ltu,198016.0,2015
+eu,Europe,eulux,Luxembourg,lux,20533.0,2015
+eu,Europe,eulva,Latvia,lva,342899.00000000006,2015
+eu,Europe,eumda,Moldova,mda,24775.0,2015
+eu,Europe,eumkd,North Macedonia,mkd,3003227.0,2015
+eu,Europe,eumlt,Malta,mlt,1511.9999999999998,2015
+eu,Europe,eunld,Netherlands,nld,875566710.0,2015
+eu,Europe,eunor,Norway,nor,3831793.0,2015
+eu,Europe,eupol,Poland,pol,245537956.0,2015
+eu,Europe,euprt,Portugal,prt,175462.0,2015
+eu,Europe,eurou,Romania,rou,97242039.0,2015
+eu,Europe,eurus,Russia,rus,268765782.0,2015
+eu,Europe,eusrb,Serbia,srb,33322607.0,2015
+eu,Europe,eusvk,Slovakia,svk,102629944.0,2015
+eu,Europe,eusvn,Slovenia,svn,45690178.0,2015
+eu,Europe,euswe,Sweden,swe,5889456.0,2015
+eu,Europe,euukr,Ukraine,ukr,72807339.0,2015
+na,North America,naabw,Aruba,abw,2.0,2015
+na,North America,nabrb,Barbados,brb,178760.0,2015
+na,North America,nacan,Canada,can,23343007.0,2015
+na,North America,nacri,Costa Rica,cri,52400.0,2015
+na,North America,nacuw,Curaçao,cuw,2.0,2015
+na,North America,nadom,Dominican Republic,dom,2353.0,2015
+na,North America,nagrl,Greenland,grl,1.0,2015
+na,North America,nagtm,Guatemala,gtm,18.000000000000004,2015
+na,North America,najam,Jamaica,jam,13.999999999999998,2015
+na,North America,namaf,Saint Martin,maf,1.0,2015
+na,North America,namex,Mexico,mex,46831277.0,2015
+na,North America,nanic,Nicaragua,nic,245.0,2015
+na,North America,naslv,El Salvador,slv,21194.0,2015
+na,North America,natto,Trinidad and Tobago,tto,207865722.0,2015
+na,North America,nausa,United States,usa,258566426.0,2015
+oc,Oceania,ocaus,Australia,aus,16965641.0,2015
+oc,Oceania,ocncl,New Caledonia,ncl,730.0,2015
+oc,Oceania,ocnzl,New Zealand,nzl,90763.0,2015
+oc,Oceania,ocpyf,French Polynesia,pyf,102.0,2015
+sa,South America,saarg,Argentina,arg,137883184.0,2015
+sa,South America,sabra,Brazil,bra,6260.0,2015
+sa,South America,sachl,Chile,chl,31379.000000000004,2015
+sa,South America,sacol,Colombia,col,235879.0,2015
+sa,South America,saecu,Ecuador,ecu,4584.0,2015
+sa,South America,saper,Peru,per,51115.0,2015
+sa,South America,sapry,Paraguay,pry,4151307.0,2015
+sa,South America,sasur,Suriname,sur,1.0,2015
+sa,South America,saury,Uruguay,ury,21444.0,2015
+af,Africa,afago,Angola,ago,1295.0,2015
+af,Africa,afbwa,Botswana,bwa,5088.0,2015
+af,Africa,afcod,Democratic Republic of the Congo,cod,10277.000000000002,2015
+af,Africa,afdza,Algeria,dza,7086848.000000001,2015
+af,Africa,afegy,Egypt,egy,260651104.0,2015
+af,Africa,afgmb,Gambia,gmb,121.0,2015
+af,Africa,afken,Kenya,ken,3312.0,2015
+af,Africa,aflby,Libya,lby,26866704.0,2015
+af,Africa,afmar,Morocco,mar,451.0,2015
+af,Africa,afmdg,Madagascar,mdg,150.0,2015
+af,Africa,afmoz,Mozambique,moz,8039.999999999999,2015
+af,Africa,afmus,Mauritius,mus,434021.0,2015
+af,Africa,afmwi,Malawi,mwi,63.0,2015
+af,Africa,afnam,Namibia,nam,1005760.0,2015
+af,Africa,afswz,Eswatini,swz,175.0,2015
+af,Africa,afzaf,South Africa,zaf,28598875.0,2015
+af,Africa,afzmb,Zambia,zmb,3787.000000000001,2015
+as,Asia,asare,United Arab Emirates,are,600188564.0,2015
+as,Asia,asarm,Armenia,arm,73040.0,2015
+as,Asia,asbhr,Bahrain,bhr,17875620.0,2015
+as,Asia,aschn,China,chn,3639066564.0,2015
+as,Asia,ascyp,Cyprus,cyp,193.0,2015
+as,Asia,ashkg,Hong Kong,hkg,102959.0,2015
+as,Asia,asidn,Indonesia,idn,62487454.0,2015
+as,Asia,asind,India,ind,230910936.0,2015
+as,Asia,asirn,Iran,irn,113385268.0,2015
+as,Asia,asirq,Iraq,irq,10000.0,2015
+as,Asia,asisr,Israel,isr,2590.0,2015
+as,Asia,asjpn,Japan,jpn,1034026567.0,2015
+as,Asia,askaz,Kazakhstan,kaz,319.0,2015
+as,Asia,askor,South Korea,kor,532347575.0,2015
+as,Asia,asmac,Macau,mac,6970.0,2015
+as,Asia,asmys,Malaysia,mys,128017470.0,2015
+as,Asia,asnpl,Nepal,npl,196306.0,2015
+as,Asia,asomn,Oman,omn,65539958.0,2015
+as,Asia,asphl,Philippines,phl,2596893.0,2015
+as,Asia,asqat,Qatar,qat,373291690.0,2015
+as,Asia,assau,Saudi Arabia,sau,597091903.0,2015
+as,Asia,assgp,Singapore,sgp,233726.0,2015
+as,Asia,astha,Thailand,tha,53424.00000000001,2015
+as,Asia,astkm,Turkmenistan,tkm,37521.0,2015
+as,Asia,astur,Turkey,tur,430471764.0,2015
+as,Asia,astwn,Chinese Taipei,twn,142442255.0,2015
+as,Asia,asvnm,Vietnam,vnm,3140572.0,2015
+as,Asia,asyem,Yemen,yem,13360.0,2015
+eu,Europe,eualb,Albania,alb,570.0,2015
+eu,Europe,euaut,Austria,aut,172471541.0,2015
+eu,Europe,eubel,Belgium,bel,169885551.0,2015
+eu,Europe,eubgr,Bulgaria,bgr,64013.99999999999,2015
+eu,Europe,eublr,Belarus,blr,2156.0,2015
+eu,Europe,euche,Switzerland,che,28258963.0,2015
+eu,Europe,eucze,Czechia,cze,74158915.0,2015
+eu,Europe,eudeu,Germany,deu,741167515.0,2015
+eu,Europe,eudnk,Denmark,dnk,2461716.0,2015
+eu,Europe,euesp,Spain,esp,222001449.0,2015
+eu,Europe,euest,Estonia,est,363.0,2015
+eu,Europe,eufin,Finland,fin,264894227.0,2015
+eu,Europe,eufra,France,fra,251278173.0,2015
+eu,Europe,eugbr,United Kingdom,gbr,389880793.0,2015
+eu,Europe,eugrc,Greece,grc,511.0,2015
+eu,Europe,euhrv,Croatia,hrv,19665545.0,2015
+eu,Europe,euhun,Hungary,hun,64249797.0,2015
+eu,Europe,euirl,Ireland,irl,2164.0,2015
+eu,Europe,euisl,Iceland,isl,339685.00000000006,2015
+eu,Europe,euita,Italy,ita,257027937.0,2015
+eu,Europe,eultu,Lithuania,ltu,428.0,2015
+eu,Europe,eulux,Luxembourg,lux,782.9999999999999,2015
+eu,Europe,eulva,Latvia,lva,7857.000000000001,2015
+eu,Europe,eumlt,Malta,mlt,42708.0,2015
+eu,Europe,eunld,Netherlands,nld,733209629.0,2015
+eu,Europe,eunor,Norway,nor,3129628.9999999995,2015
+eu,Europe,eupol,Poland,pol,73768158.0,2015
+eu,Europe,euprt,Portugal,prt,1159.0,2015
+eu,Europe,eurou,Romania,rou,29919794.0,2015
+eu,Europe,eurus,Russia,rus,112620586.0,2015
+eu,Europe,eusrb,Serbia,srb,41034899.0,2015
+eu,Europe,eusvk,Slovakia,svk,151592957.0,2015
+eu,Europe,eusvn,Slovenia,svn,809.9999999999999,2015
+eu,Europe,euswe,Sweden,swe,2410082.0,2015
+eu,Europe,euukr,Ukraine,ukr,33442677.000000004,2015
+na,North America,nacan,Canada,can,550996139.0,2015
+na,North America,nacri,Costa Rica,cri,156.0,2015
+na,North America,najam,Jamaica,jam,281.0,2015
+na,North America,namex,Mexico,mex,54126498.0,2015
+na,North America,nanic,Nicaragua,nic,5.0,2015
+na,North America,natto,Trinidad and Tobago,tto,280386815.0,2015
+na,North America,nausa,United States,usa,385108014.0,2015
+oc,Oceania,ocaus,Australia,aus,45077430.0,2015
+sa,South America,saarg,Argentina,arg,228979129.00000003,2015
+sa,South America,sabra,Brazil,bra,1744.0,2015
+sa,South America,sachl,Chile,chl,4633.0,2015
+sa,South America,sacol,Colombia,col,42582.0,2015
+sa,South America,saury,Uruguay,ury,494.0,2015
+af,Africa,afago,Angola,ago,581.0,2016
+af,Africa,afben,Benin,ben,415.0,2016
+af,Africa,afbwa,Botswana,bwa,22266.0,2016
+af,Africa,afcod,Democratic Republic of the Congo,cod,11093.0,2016
+af,Africa,afcpv,Cape Verde,cpv,11.000000000000002,2016
+af,Africa,afdza,Algeria,dza,602797.0,2016
+af,Africa,afegy,Egypt,egy,273831.0,2016
+af,Africa,afgab,Gabon,gab,479.0,2016
+af,Africa,afgha,Ghana,gha,5366.0,2016
+af,Africa,afken,Kenya,ken,2357906.0,2016
+af,Africa,aflso,Lesotho,lso,621.0,2016
+af,Africa,afmar,Morocco,mar,11328.0,2016
+af,Africa,afmoz,Mozambique,moz,358473.0,2016
+af,Africa,afnam,Namibia,nam,301.0,2016
+af,Africa,afnga,Nigeria,nga,7554.0,2016
+af,Africa,afsdn,Sudan,sdn,2053.0,2016
+af,Africa,afsen,Senegal,sen,283.00000000000006,2016
+af,Africa,afswz,Eswatini,swz,769.0,2016
+af,Africa,aftun,Tunisia,tun,327266.0,2016
+af,Africa,aftza,Tanzania,tza,1438.0000000000002,2016
+af,Africa,afzaf,South Africa,zaf,64678.0,2016
+af,Africa,afzwe,Zimbabwe,zwe,4319.0,2016
+as,Asia,asare,United Arab Emirates,are,10250790.0,2016
+as,Asia,asarm,Armenia,arm,29360.0,2016
+as,Asia,asaze,Azerbaijan,aze,268075.0,2016
+as,Asia,asbhr,Bahrain,bhr,219179307.0,2016
+as,Asia,aschn,China,chn,46127548827.0,2016
+as,Asia,ascyp,Cyprus,cyp,73480.0,2016
+as,Asia,asgeo,Georgia,geo,744878.0,2016
+as,Asia,ashkg,Hong Kong,hkg,156058951.0,2016
+as,Asia,asidn,Indonesia,idn,246417485.00000003,2016
+as,Asia,asind,India,ind,253458396.0,2016
+as,Asia,asirn,Iran,irn,99119.0,2016
+as,Asia,asirq,Iraq,irq,2965176.0,2016
+as,Asia,asisr,Israel,isr,137923.99999999997,2016
+as,Asia,asjor,Jordan,jor,1738772.0,2016
+as,Asia,asjpn,Japan,jpn,4993753518.0,2016
+as,Asia,askaz,Kazakhstan,kaz,32631.000000000004,2016
+as,Asia,askgz,Kyrgyzstan,kgz,335850.0,2016
+as,Asia,askor,South Korea,kor,3160670388.9999995,2016
+as,Asia,askwt,Kuwait,kwt,462611.0,2016
+as,Asia,aslka,Sri Lanka,lka,59.00000000000001,2016
+as,Asia,asmng,Mongolia,mng,5.0,2016
+as,Asia,asmys,Malaysia,mys,696647935.9999999,2016
+as,Asia,asnpl,Nepal,npl,1130793.9999999998,2016
+as,Asia,asomn,Oman,omn,279611780.0,2016
+as,Asia,aspak,Pakistan,pak,28805.0,2016
+as,Asia,asphl,Philippines,phl,159556059.0,2016
+as,Asia,aspse,Palestine,pse,213930.0,2016
+as,Asia,asqat,Qatar,qat,9593228.0,2016
+as,Asia,assau,Saudi Arabia,sau,145973.0,2016
+as,Asia,assgp,Singapore,sgp,30089039.0,2016
+as,Asia,astha,Thailand,tha,840030.0,2016
+as,Asia,astjk,Tajikistan,tjk,413161.0,2016
+as,Asia,astkm,Turkmenistan,tkm,3410545.0,2016
+as,Asia,astur,Turkey,tur,198837970.00000003,2016
+as,Asia,astwn,Chinese Taipei,twn,1115385560.0000002,2016
+as,Asia,asvnm,Vietnam,vnm,133069939.0,2016
+eu,Europe,eualb,Albania,alb,33054.0,2016
+eu,Europe,euaut,Austria,aut,12487284.0,2016
+eu,Europe,eubel,Belgium,bel,239157799.0,2016
+eu,Europe,eubgr,Bulgaria,bgr,74137.99999999999,2016
+eu,Europe,eubih,Bosnia and Herzegovina,bih,49795.0,2016
+eu,Europe,eublr,Belarus,blr,702438.0,2016
+eu,Europe,euche,Switzerland,che,5989687.0,2016
+eu,Europe,eucze,Czechia,cze,230832640.0,2016
+eu,Europe,eudeu,Germany,deu,420762020.0,2016
+eu,Europe,eudnk,Denmark,dnk,3155773.0,2016
+eu,Europe,euesp,Spain,esp,168204622.0,2016
+eu,Europe,euest,Estonia,est,188257.0,2016
+eu,Europe,eufin,Finland,fin,5450391.000000001,2016
+eu,Europe,eufra,France,fra,494582988.0,2016
+eu,Europe,eugbr,United Kingdom,gbr,255382197.0,2016
+eu,Europe,eugrc,Greece,grc,200148.0,2016
+eu,Europe,euhrv,Croatia,hrv,92262.0,2016
+eu,Europe,euhun,Hungary,hun,25624331.0,2016
+eu,Europe,euirl,Ireland,irl,136552.0,2016
+eu,Europe,euita,Italy,ita,237430805.0,2016
+eu,Europe,eultu,Lithuania,ltu,118972.0,2016
+eu,Europe,eulux,Luxembourg,lux,20537.0,2016
+eu,Europe,eulva,Latvia,lva,171046.0,2016
+eu,Europe,eumda,Moldova,mda,48833.99999999999,2016
+eu,Europe,eumkd,North Macedonia,mkd,5140965.0,2016
+eu,Europe,eumlt,Malta,mlt,39.0,2016
+eu,Europe,eunld,Netherlands,nld,823919192.0,2016
+eu,Europe,eunor,Norway,nor,6754941.0,2016
+eu,Europe,eupol,Poland,pol,226676235.0,2016
+eu,Europe,euprt,Portugal,prt,268462.0,2016
+eu,Europe,eurou,Romania,rou,84851942.0,2016
+eu,Europe,eurus,Russia,rus,212279712.0,2016
+eu,Europe,eusrb,Serbia,srb,15591882.0,2016
+eu,Europe,eusvk,Slovakia,svk,101490519.0,2016
+eu,Europe,eusvn,Slovenia,svn,50134030.0,2016
+eu,Europe,euswe,Sweden,swe,2743648.0,2016
+eu,Europe,euukr,Ukraine,ukr,51176478.0,2016
+na,North America,nabrb,Barbados,brb,116984.0,2016
+na,North America,nacan,Canada,can,19976994.0,2016
+na,North America,nacri,Costa Rica,cri,41234.0,2016
+na,North America,nacub,Cuba,cub,707.0000000000001,2016
+na,North America,nadom,Dominican Republic,dom,5220.0,2016
+na,North America,nagtm,Guatemala,gtm,13889.000000000002,2016
+na,North America,najam,Jamaica,jam,104.0,2016
+na,North America,namex,Mexico,mex,146194269.0,2016
+na,North America,napan,Panama,pan,39574.0,2016
+na,North America,naslv,El Salvador,slv,21233.0,2016
+na,North America,natto,Trinidad and Tobago,tto,188435847.0,2016
+na,North America,nausa,United States,usa,156038094.0,2016
+na,North America,navct,Saint Vincent and the Grenadines,vct,166.0,2016
+oc,Oceania,ocaus,Australia,aus,24980047.0,2016
+oc,Oceania,ocnzl,New Zealand,nzl,76596.99999999999,2016
+sa,South America,saarg,Argentina,arg,89313089.0,2016
+sa,South America,sabol,Bolivia,bol,11853.0,2016
+sa,South America,sabra,Brazil,bra,7994.0,2016
+sa,South America,sachl,Chile,chl,5700.000000000001,2016
+sa,South America,sacol,Colombia,col,463447.0,2016
+sa,South America,saecu,Ecuador,ecu,3836.000000000001,2016
+sa,South America,saper,Peru,per,52710.0,2016
+sa,South America,sapry,Paraguay,pry,3694318.0,2016
+sa,South America,sasur,Suriname,sur,208.00000000000003,2016
+sa,South America,saury,Uruguay,ury,552.9999999999999,2016
+af,Africa,afago,Angola,ago,446250.0,2016
+af,Africa,afbwa,Botswana,bwa,188.0,2016
+af,Africa,afcod,Democratic Republic of the Congo,cod,939.0,2016
+af,Africa,afegy,Egypt,egy,370462331.0,2016
+af,Africa,afeth,Ethiopia,eth,2868.0000000000005,2016
+af,Africa,afgha,Ghana,gha,853.0,2016
+af,Africa,aflby,Libya,lby,50602447.0,2016
+af,Africa,aflso,Lesotho,lso,29.0,2016
+af,Africa,afmoz,Mozambique,moz,702761.0000000001,2016
+af,Africa,afmus,Mauritius,mus,232653.0,2016
+af,Africa,afnam,Namibia,nam,141.0,2016
+af,Africa,afsdn,Sudan,sdn,81333.0,2016
+af,Africa,afswz,Eswatini,swz,477.00000000000006,2016
+af,Africa,afzaf,South Africa,zaf,38813722.0,2016
+af,Africa,afzmb,Zambia,zmb,3330.0,2016
+af,Africa,afzwe,Zimbabwe,zwe,25136.0,2016
+as,Asia,asare,United Arab Emirates,are,300117228.0,2016
+as,Asia,asarm,Armenia,arm,137009.0,2016
+as,Asia,asbhr,Bahrain,bhr,637256.0,2016
+as,Asia,aschn,China,chn,2774110927.0,2016
+as,Asia,ashkg,Hong Kong,hkg,30552.0,2016
+as,Asia,asidn,Indonesia,idn,8731081.0,2016
+as,Asia,asind,India,ind,228286011.0,2016
+as,Asia,asirn,Iran,irn,11673569.0,2016
+as,Asia,asirq,Iraq,irq,319374.0,2016
+as,Asia,asjpn,Japan,jpn,1047761310.0,2016
+as,Asia,askaz,Kazakhstan,kaz,5299393.0,2016
+as,Asia,askor,South Korea,kor,414482718.0,2016
+as,Asia,askwt,Kuwait,kwt,454.0,2016
+as,Asia,asmys,Malaysia,mys,77492082.0,2016
+as,Asia,asnpl,Nepal,npl,342643.0,2016
+as,Asia,asomn,Oman,omn,217773174.0,2016
+as,Asia,asphl,Philippines,phl,563.0,2016
+as,Asia,asqat,Qatar,qat,596900495.0000001,2016
+as,Asia,assau,Saudi Arabia,sau,448881277.0,2016
+as,Asia,assgp,Singapore,sgp,256475.0,2016
+as,Asia,astha,Thailand,tha,41466.0,2016
+as,Asia,astur,Turkey,tur,357486302.0,2016
+as,Asia,astwn,Chinese Taipei,twn,182736006.0,2016
+as,Asia,asvnm,Vietnam,vnm,37854763.0,2016
+eu,Europe,euaut,Austria,aut,180896981.0,2016
+eu,Europe,eubel,Belgium,bel,186749597.0,2016
+eu,Europe,eubgr,Bulgaria,bgr,94225.0,2016
+eu,Europe,eublr,Belarus,blr,10375.0,2016
+eu,Europe,euche,Switzerland,che,1888658.0,2016
+eu,Europe,eucze,Czechia,cze,49617481.0,2016
+eu,Europe,eudeu,Germany,deu,681342675.0,2016
+eu,Europe,eudnk,Denmark,dnk,2041778.0,2016
+eu,Europe,euesp,Spain,esp,192980674.0,2016
+eu,Europe,eufin,Finland,fin,220040880.0,2016
+eu,Europe,eufra,France,fra,227364641.0,2016
+eu,Europe,eugbr,United Kingdom,gbr,267937971.0,2016
+eu,Europe,euhun,Hungary,hun,26561992.0,2016
+eu,Europe,euirl,Ireland,irl,588712.0,2016
+eu,Europe,euisl,Iceland,isl,202791.0,2016
+eu,Europe,euita,Italy,ita,282911366.0,2016
+eu,Europe,eultu,Lithuania,ltu,500.0,2016
+eu,Europe,eulux,Luxembourg,lux,3538.0,2016
+eu,Europe,eumlt,Malta,mlt,570.0,2016
+eu,Europe,eunld,Netherlands,nld,759367259.0,2016
+eu,Europe,eunor,Norway,nor,2883419.0,2016
+eu,Europe,eupol,Poland,pol,57230485.0,2016
+eu,Europe,eurou,Romania,rou,34608393.0,2016
+eu,Europe,eurus,Russia,rus,136039912.0,2016
+eu,Europe,eusrb,Serbia,srb,94459754.0,2016
+eu,Europe,eusvk,Slovakia,svk,157045130.0,2016
+eu,Europe,eusvn,Slovenia,svn,17956342.000000004,2016
+eu,Europe,euswe,Sweden,swe,14337936.0,2016
+eu,Europe,euukr,Ukraine,ukr,5276676.0,2016
+na,North America,nablz,Belize,blz,14189.0,2016
+na,North America,nacan,Canada,can,470525930.0,2016
+na,North America,najam,Jamaica,jam,53.0,2016
+na,North America,namex,Mexico,mex,88176904.0,2016
+na,North America,napan,Panama,pan,15360.0,2016
+na,North America,natto,Trinidad and Tobago,tto,129803741.0,2016
+na,North America,nausa,United States,usa,211146785.0,2016
+oc,Oceania,ocaus,Australia,aus,2299426.0,2016
+sa,South America,saarg,Argentina,arg,129272913.0,2016
+sa,South America,sabra,Brazil,bra,2123.0,2016
+sa,South America,sachl,Chile,chl,26508.0,2016
+af,Africa,afago,Angola,ago,3683830.0,2017
+af,Africa,afben,Benin,ben,9270.0,2017
+af,Africa,afbwa,Botswana,bwa,17409.0,2017
+af,Africa,afcaf,Central African Republic,caf,247928.0,2017
+af,Africa,afciv,Cote d'Ivoire,civ,4882.0,2017
+af,Africa,afcmr,Cameroon,cmr,2622513.0,2017
+af,Africa,afcod,Democratic Republic of the Congo,cod,57688.99999999999,2017
+af,Africa,afdza,Algeria,dza,928811.0,2017
+af,Africa,afegy,Egypt,egy,55340553.0,2017
+af,Africa,aferi,Eritrea,eri,547.9999999999999,2017
+af,Africa,afgha,Ghana,gha,1063285.0,2017
+af,Africa,afgmb,Gambia,gmb,341.0,2017
+af,Africa,afgnb,Guinea-Bissau,gnb,157.0,2017
+af,Africa,afken,Kenya,ken,1868436.0,2017
+af,Africa,aflso,Lesotho,lso,255.0,2017
+af,Africa,afmar,Morocco,mar,32373.000000000004,2017
+af,Africa,afmdg,Madagascar,mdg,5531.0,2017
+af,Africa,afmoz,Mozambique,moz,44038053.99999999,2017
+af,Africa,afnam,Namibia,nam,536.0,2017
+af,Africa,afnga,Nigeria,nga,66.0,2017
+af,Africa,afsdn,Sudan,sdn,3923.0,2017
+af,Africa,afsen,Senegal,sen,210.0,2017
+af,Africa,afsle,Sierra Leone,sle,34.0,2017
+af,Africa,afswz,Eswatini,swz,213.0,2017
+af,Africa,aftun,Tunisia,tun,344033.0,2017
+af,Africa,aftza,Tanzania,tza,10544.0,2017
+af,Africa,afzaf,South Africa,zaf,52916.0,2017
+af,Africa,afzmb,Zambia,zmb,1932.0,2017
+af,Africa,afzwe,Zimbabwe,zwe,16012.0,2017
+as,Asia,asare,United Arab Emirates,are,10408981.0,2017
+as,Asia,asarm,Armenia,arm,6957.0,2017
+as,Asia,asaze,Azerbaijan,aze,23248.0,2017
+as,Asia,asbhr,Bahrain,bhr,336603879.0,2017
+as,Asia,aschn,China,chn,57799070541.0,2017
+as,Asia,ascyp,Cyprus,cyp,75568.0,2017
+as,Asia,asgeo,Georgia,geo,181627.0,2017
+as,Asia,ashkg,Hong Kong,hkg,147137180.0,2017
+as,Asia,asidn,Indonesia,idn,310630157.0,2017
+as,Asia,asind,India,ind,292717746.0,2017
+as,Asia,asirn,Iran,irn,126247.0,2017
+as,Asia,asirq,Iraq,irq,5792890.0,2017
+as,Asia,asisr,Israel,isr,78553.0,2017
+as,Asia,asjor,Jordan,jor,917004.0,2017
+as,Asia,asjpn,Japan,jpn,6442647041.0,2017
+as,Asia,askaz,Kazakhstan,kaz,4137703.0,2017
+as,Asia,askgz,Kyrgyzstan,kgz,401409.00000000006,2017
+as,Asia,askor,South Korea,kor,4151969327.0,2017
+as,Asia,askwt,Kuwait,kwt,45449.00000000001,2017
+as,Asia,aslka,Sri Lanka,lka,1532.0,2017
+as,Asia,asmdv,Maldives,mdv,23.0,2017
+as,Asia,asmng,Mongolia,mng,24082.0,2017
+as,Asia,asmys,Malaysia,mys,1166674672.0,2017
+as,Asia,asnpl,Nepal,npl,447264.0,2017
+as,Asia,asomn,Oman,omn,476584786.0,2017
+as,Asia,aspak,Pakistan,pak,120937.0,2017
+as,Asia,asphl,Philippines,phl,219546563.0,2017
+as,Asia,asprk,North Korea,prk,4638032.0,2017
+as,Asia,aspse,Palestine,pse,1439578.0,2017
+as,Asia,asqat,Qatar,qat,14402.0,2017
+as,Asia,assau,Saudi Arabia,sau,4310640.0,2017
+as,Asia,assgp,Singapore,sgp,43983252.0,2017
+as,Asia,assyr,Syria,syr,208271.0,2017
+as,Asia,astha,Thailand,tha,388806.0,2017
+as,Asia,astjk,Tajikistan,tjk,260819.00000000003,2017
+as,Asia,astkm,Turkmenistan,tkm,2495348.0,2017
+as,Asia,astur,Turkey,tur,320385334.0,2017
+as,Asia,astwn,Chinese Taipei,twn,1342225830.0,2017
+as,Asia,asuzb,Uzbekistan,uzb,126087.0,2017
+as,Asia,asvnm,Vietnam,vnm,281267941.0,2017
+eu,Europe,eualb,Albania,alb,9834.0,2017
+eu,Europe,euaut,Austria,aut,16193363.000000002,2017
+eu,Europe,eubel,Belgium,bel,290750257.0,2017
+eu,Europe,eubgr,Bulgaria,bgr,22413.0,2017
+eu,Europe,eubih,Bosnia and Herzegovina,bih,60729.0,2017
+eu,Europe,eublr,Belarus,blr,1241822.0,2017
+eu,Europe,euche,Switzerland,che,50161755.0,2017
+eu,Europe,eucze,Czechia,cze,275613725.0,2017
+eu,Europe,eudeu,Germany,deu,543160248.0,2017
+eu,Europe,eudnk,Denmark,dnk,1670740.0,2017
+eu,Europe,euesp,Spain,esp,271516130.99999994,2017
+eu,Europe,euest,Estonia,est,45128.0,2017
+eu,Europe,eufin,Finland,fin,3445776.0,2017
+eu,Europe,eufra,France,fra,671235120.0000001,2017
+eu,Europe,eugbr,United Kingdom,gbr,405602129.0,2017
+eu,Europe,eugrc,Greece,grc,49864.0,2017
+eu,Europe,euhrv,Croatia,hrv,21600558.0,2017
+eu,Europe,euhun,Hungary,hun,52748245.0,2017
+eu,Europe,euirl,Ireland,irl,252192.0,2017
+eu,Europe,euisl,Iceland,isl,271.0,2017
+eu,Europe,euita,Italy,ita,328377184.0,2017
+eu,Europe,eultu,Lithuania,ltu,402308.0,2017
+eu,Europe,eulux,Luxembourg,lux,30275.000000000004,2017
+eu,Europe,eulva,Latvia,lva,12923.0,2017
+eu,Europe,eumda,Moldova,mda,215186.0,2017
+eu,Europe,eumkd,North Macedonia,mkd,3048917.0,2017
+eu,Europe,eumlt,Malta,mlt,186.00000000000003,2017
+eu,Europe,eunld,Netherlands,nld,1163996413.0,2017
+eu,Europe,eunor,Norway,nor,8809326.0,2017
+eu,Europe,eupol,Poland,pol,368475265.0,2017
+eu,Europe,euprt,Portugal,prt,245200756.0,2017
+eu,Europe,eurou,Romania,rou,140924476.0,2017
+eu,Europe,eurus,Russia,rus,312794572.0,2017
+eu,Europe,eusrb,Serbia,srb,29067047.0,2017
+eu,Europe,eusvk,Slovakia,svk,178240527.0,2017
+eu,Europe,eusvn,Slovenia,svn,72882280.0,2017
+eu,Europe,euswe,Sweden,swe,1876563.0,2017
+eu,Europe,euukr,Ukraine,ukr,53909293.0,2017
+na,North America,nabhs,Bahamas,bhs,16622.0,2017
+na,North America,nabmu,Bermuda,bmu,6.0,2017
+na,North America,nabrb,Barbados,brb,62495.0,2017
+na,North America,nacan,Canada,can,42503205.0,2017
+na,North America,nacri,Costa Rica,cri,45718.0,2017
+na,North America,nagtm,Guatemala,gtm,38521.0,2017
+na,North America,nahnd,Honduras,hnd,15000.0,2017
+na,North America,namex,Mexico,mex,87591779.0,2017
+na,North America,napan,Panama,pan,14148.0,2017
+na,North America,naslv,El Salvador,slv,28164.0,2017
+na,North America,natto,Trinidad and Tobago,tto,170988457.0,2017
+na,North America,nausa,United States,usa,124170831.0,2017
+oc,Oceania,ocaus,Australia,aus,21768897.0,2017
+oc,Oceania,ocncl,New Caledonia,ncl,10274.0,2017
+oc,Oceania,ocnzl,New Zealand,nzl,65173.99999999999,2017
+oc,Oceania,ocpyf,French Polynesia,pyf,101.0,2017
+sa,South America,saarg,Argentina,arg,108661074.0,2017
+sa,South America,sabol,Bolivia,bol,10000.0,2017
+sa,South America,sabra,Brazil,bra,245799.0,2017
+sa,South America,sachl,Chile,chl,6940717.0,2017
+sa,South America,sacol,Colombia,col,382438.0,2017
+sa,South America,saecu,Ecuador,ecu,6.0,2017
+sa,South America,saper,Peru,per,35406.0,2017
+sa,South America,sapry,Paraguay,pry,4305045.999999999,2017
+sa,South America,saury,Uruguay,ury,12140896.0,2017
+sa,South America,saven,Venezuela,ven,18349.0,2017
+af,Africa,afago,Angola,ago,567352.0,2017
+af,Africa,afcod,Democratic Republic of the Congo,cod,8242.0,2017
+af,Africa,afdza,Algeria,dza,380.0,2017
+af,Africa,afegy,Egypt,egy,574298623.0,2017
+af,Africa,afeth,Ethiopia,eth,2155.0,2017
+af,Africa,afgha,Ghana,gha,12.0,2017
+af,Africa,afgmb,Gambia,gmb,8.0,2017
+af,Africa,aflby,Libya,lby,80131555.0,2017
+af,Africa,aflso,Lesotho,lso,2735.0,2017
+af,Africa,afmar,Morocco,mar,1951.0,2017
+af,Africa,afmoz,Mozambique,moz,514161.0,2017
+af,Africa,afnam,Namibia,nam,1110.0,2017
+af,Africa,afnga,Nigeria,nga,35.0,2017
+af,Africa,afswz,Eswatini,swz,2184.0,2017
+af,Africa,aftza,Tanzania,tza,80.0,2017
+af,Africa,afzaf,South Africa,zaf,44225643.0,2017
+af,Africa,afzmb,Zambia,zmb,142.0,2017
+af,Africa,afzwe,Zimbabwe,zwe,172293.0,2017
+as,Asia,asare,United Arab Emirates,are,561759206.0,2017
+as,Asia,asarm,Armenia,arm,510546.0,2017
+as,Asia,aschn,China,chn,3424633955.0,2017
+as,Asia,ashkg,Hong Kong,hkg,151077.0,2017
+as,Asia,asidn,Indonesia,idn,30758401.000000004,2017
+as,Asia,asind,India,ind,258431642.00000003,2017
+as,Asia,asirn,Iran,irn,11112129.0,2017
+as,Asia,asirq,Iraq,irq,162.0,2017
+as,Asia,asjpn,Japan,jpn,1439811454.0,2017
+as,Asia,askaz,Kazakhstan,kaz,30808905.0,2017
+as,Asia,askgz,Kyrgyzstan,kgz,7221.0,2017
+as,Asia,askor,South Korea,kor,689429402.0,2017
+as,Asia,askwt,Kuwait,kwt,580.0,2017
+as,Asia,asmys,Malaysia,mys,79186617.0,2017
+as,Asia,asnpl,Nepal,npl,989964.0,2017
+as,Asia,asomn,Oman,omn,273813974.0,2017
+as,Asia,asphl,Philippines,phl,12288723.0,2017
+as,Asia,asqat,Qatar,qat,634952349.0,2017
+as,Asia,assau,Saudi Arabia,sau,991420053.0,2017
+as,Asia,assgp,Singapore,sgp,5620022.0,2017
+as,Asia,astha,Thailand,tha,34848.0,2017
+as,Asia,astur,Turkey,tur,574829391.0,2017
+as,Asia,astwn,Chinese Taipei,twn,202599007.0,2017
+as,Asia,asvnm,Vietnam,vnm,35136058.0,2017
+as,Asia,asyem,Yemen,yem,1236999.0,2017
+eu,Europe,euaut,Austria,aut,312343500.0,2017
+eu,Europe,eubel,Belgium,bel,290786122.0,2017
+eu,Europe,eubgr,Bulgaria,bgr,40454.0,2017
+eu,Europe,eublr,Belarus,blr,55630.0,2017
+eu,Europe,euche,Switzerland,che,550853.0,2017
+eu,Europe,eucze,Czechia,cze,62574230.0,2017
+eu,Europe,eudeu,Germany,deu,971621657.0,2017
+eu,Europe,eudnk,Denmark,dnk,1856729.0,2017
+eu,Europe,euesp,Spain,esp,267043819.0,2017
+eu,Europe,eufin,Finland,fin,274974822.0,2017
+eu,Europe,eufra,France,fra,363427969.0,2017
+eu,Europe,eugbr,United Kingdom,gbr,369688927.0,2017
+eu,Europe,euhun,Hungary,hun,102845042.0,2017
+eu,Europe,euirl,Ireland,irl,1311.0,2017
+eu,Europe,euisl,Iceland,isl,593111.0,2017
+eu,Europe,euita,Italy,ita,353302236.0,2017
+eu,Europe,eunld,Netherlands,nld,874056492.0,2017
+eu,Europe,eunor,Norway,nor,5423474.0,2017
+eu,Europe,eupol,Poland,pol,141119112.0,2017
+eu,Europe,euprt,Portugal,prt,73.0,2017
+eu,Europe,eurou,Romania,rou,64755278.0,2017
+eu,Europe,eurus,Russia,rus,178585140.99999997,2017
+eu,Europe,eusrb,Serbia,srb,141153867.0,2017
+eu,Europe,eusvk,Slovakia,svk,260162684.0,2017
+eu,Europe,eusvn,Slovenia,svn,25719834.0,2017
+eu,Europe,euswe,Sweden,swe,15332325.000000002,2017
+eu,Europe,euukr,Ukraine,ukr,174039324.0,2017
+na,North America,nacan,Canada,can,559403514.0,2017
+na,North America,nacub,Cuba,cub,21533.0,2017
+na,North America,namex,Mexico,mex,26990730.0,2017
+na,North America,natto,Trinidad and Tobago,tto,268051087.0,2017
+na,North America,nausa,United States,usa,412036570.0,2017
+oc,Oceania,ocaus,Australia,aus,64843.0,2017
+oc,Oceania,ocnzl,New Zealand,nzl,4739.0,2017
+sa,South America,saarg,Argentina,arg,248362404.0,2017
+sa,South America,sabra,Brazil,bra,1071.0,2017
+sa,South America,sachl,Chile,chl,73110.0,2017
+sa,South America,saguy,Guyana,guy,48.0,2017
+sa,South America,sapry,Paraguay,pry,30970.0,2017
+af,Africa,afbfa,Burkina Faso,bfa,392.0,2018
+af,Africa,afbwa,Botswana,bwa,10046.999999999998,2018
+af,Africa,afciv,Cote d'Ivoire,civ,79228.00000000001,2018
+af,Africa,afcmr,Cameroon,cmr,4638.999999999999,2018
+af,Africa,afcod,Democratic Republic of the Congo,cod,624.0,2018
+af,Africa,afdza,Algeria,dza,15639322.0,2018
+af,Africa,afegy,Egypt,egy,51568309.0,2018
+af,Africa,afgha,Ghana,gha,5234.0,2018
+af,Africa,afgin,Guinea,gin,124376.0,2018
+af,Africa,afgmb,Gambia,gmb,184.0,2018
+af,Africa,afken,Kenya,ken,6549377.999999999,2018
+af,Africa,aflso,Lesotho,lso,49.0,2018
+af,Africa,afmar,Morocco,mar,143166.0,2018
+af,Africa,afmdg,Madagascar,mdg,3526.9999999999995,2018
+af,Africa,afmli,Mali,mli,6986.0,2018
+af,Africa,afmoz,Mozambique,moz,136567044.0,2018
+af,Africa,afmwi,Malawi,mwi,4206.0,2018
+af,Africa,afnam,Namibia,nam,399.0,2018
+af,Africa,afnga,Nigeria,nga,15115.999999999998,2018
+af,Africa,afsle,Sierra Leone,sle,3307.0,2018
+af,Africa,afsom,Somalia,som,2859.0,2018
+af,Africa,afswz,Eswatini,swz,805.0,2018
+af,Africa,afsyc,Seychelles,syc,4.0,2018
+af,Africa,aftun,Tunisia,tun,390391.00000000006,2018
+af,Africa,aftza,Tanzania,tza,34825.0,2018
+af,Africa,afuga,Uganda,uga,205.0,2018
+af,Africa,afzaf,South Africa,zaf,52515.0,2018
+af,Africa,afzmb,Zambia,zmb,107.0,2018
+af,Africa,afzwe,Zimbabwe,zwe,1447.0,2018
+as,Asia,asare,United Arab Emirates,are,5538489.0,2018
+as,Asia,asaze,Azerbaijan,aze,442198.00000000006,2018
+as,Asia,asbhr,Bahrain,bhr,602615930.0,2018
+as,Asia,aschn,China,chn,56432393354.0,2018
+as,Asia,ascyp,Cyprus,cyp,86458.0,2018
+as,Asia,asgeo,Georgia,geo,160871.0,2018
+as,Asia,ashkg,Hong Kong,hkg,52889568.00000001,2018
+as,Asia,asidn,Indonesia,idn,283466841.0,2018
+as,Asia,asind,India,ind,783448905.0,2018
+as,Asia,asirn,Iran,irn,136346.0,2018
+as,Asia,asirq,Iraq,irq,17386884.0,2018
+as,Asia,asisr,Israel,isr,219187.00000000003,2018
+as,Asia,asjor,Jordan,jor,2627.0,2018
+as,Asia,asjpn,Japan,jpn,7282988621.0,2018
+as,Asia,askaz,Kazakhstan,kaz,82912.0,2018
+as,Asia,askgz,Kyrgyzstan,kgz,911306.0,2018
+as,Asia,askor,South Korea,kor,3981046485.0,2018
+as,Asia,askwt,Kuwait,kwt,269948.0,2018
+as,Asia,asmmr,Burma,mmr,35003.0,2018
+as,Asia,asmng,Mongolia,mng,49208.99999999999,2018
+as,Asia,asmys,Malaysia,mys,1190041678.0,2018
+as,Asia,asnpl,Nepal,npl,1653570.0,2018
+as,Asia,asomn,Oman,omn,516581785.0,2018
+as,Asia,aspak,Pakistan,pak,219931.0,2018
+as,Asia,asphl,Philippines,phl,195347348.0,2018
+as,Asia,aspse,Palestine,pse,1706226.0,2018
+as,Asia,asqat,Qatar,qat,2953.0000000000005,2018
+as,Asia,assau,Saudi Arabia,sau,5957494.0,2018
+as,Asia,assgp,Singapore,sgp,91544021.0,2018
+as,Asia,assyr,Syria,syr,1882.0,2018
+as,Asia,astha,Thailand,tha,843255.0,2018
+as,Asia,astjk,Tajikistan,tjk,505121.0,2018
+as,Asia,astkm,Turkmenistan,tkm,1000.0,2018
+as,Asia,astls,Timor-Leste,tls,175.0,2018
+as,Asia,astur,Turkey,tur,313353571.0,2018
+as,Asia,astwn,Chinese Taipei,twn,1547566832.0,2018
+as,Asia,asuzb,Uzbekistan,uzb,116.0,2018
+as,Asia,asvnm,Vietnam,vnm,464648653.0,2018
+eu,Europe,eualb,Albania,alb,8161.999999999999,2018
+eu,Europe,euaut,Austria,aut,10899804.0,2018
+eu,Europe,eubel,Belgium,bel,299217734.0,2018
+eu,Europe,eubgr,Bulgaria,bgr,171393.99999999997,2018
+eu,Europe,eubih,Bosnia and Herzegovina,bih,48523.0,2018
+eu,Europe,eublr,Belarus,blr,1618643.0,2018
+eu,Europe,euche,Switzerland,che,35908569.0,2018
+eu,Europe,eucze,Czechia,cze,278812570.0,2018
+eu,Europe,eudeu,Germany,deu,644916432.0,2018
+eu,Europe,eudnk,Denmark,dnk,1316990.0,2018
+eu,Europe,euesp,Spain,esp,257240454.0,2018
+eu,Europe,euest,Estonia,est,494562.00000000006,2018
+eu,Europe,eufin,Finland,fin,6779918.0,2018
+eu,Europe,eufra,France,fra,755011968.0,2018
+eu,Europe,eugbr,United Kingdom,gbr,414555681.0,2018
+eu,Europe,eugrc,Greece,grc,77133.0,2018
+eu,Europe,euhrv,Croatia,hrv,22601188.0,2018
+eu,Europe,euhun,Hungary,hun,56102491.0,2018
+eu,Europe,euirl,Ireland,irl,339484.0,2018
+eu,Europe,euisl,Iceland,isl,2116.0,2018
+eu,Europe,euita,Italy,ita,352724339.0,2018
+eu,Europe,eultu,Lithuania,ltu,670236.0,2018
+eu,Europe,eulux,Luxembourg,lux,8542082.000000002,2018
+eu,Europe,eulva,Latvia,lva,110134.0,2018
+eu,Europe,eumda,Moldova,mda,238257.0,2018
+eu,Europe,eumkd,North Macedonia,mkd,4215372.0,2018
+eu,Europe,eumlt,Malta,mlt,19418.000000000004,2018
+eu,Europe,eunld,Netherlands,nld,1266171533.0,2018
+eu,Europe,eunor,Norway,nor,5286990.0,2018
+eu,Europe,eupol,Poland,pol,356563282.0,2018
+eu,Europe,euprt,Portugal,prt,252421020.0,2018
+eu,Europe,eurou,Romania,rou,139321832.0,2018
+eu,Europe,eurus,Russia,rus,281620974.0,2018
+eu,Europe,eusrb,Serbia,srb,41748840.99999999,2018
+eu,Europe,eusvk,Slovakia,svk,214606985.0,2018
+eu,Europe,eusvn,Slovenia,svn,62036020.0,2018
+eu,Europe,euswe,Sweden,swe,1858109.0,2018
+eu,Europe,euukr,Ukraine,ukr,100185133.0,2018
+na,North America,nabhs,Bahamas,bhs,9537996.0,2018
+na,North America,nabrb,Barbados,brb,216305.0,2018
+na,North America,nacan,Canada,can,38631544.0,2018
+na,North America,nacri,Costa Rica,cri,54138.99999999999,2018
+na,North America,nadom,Dominican Republic,dom,9463.0,2018
+na,North America,nagtm,Guatemala,gtm,30546.0,2018
+na,North America,najam,Jamaica,jam,15.0,2018
+na,North America,namex,Mexico,mex,127508360.0,2018
+na,North America,naslv,El Salvador,slv,21526.0,2018
+na,North America,natto,Trinidad and Tobago,tto,2077.0,2018
+na,North America,nausa,United States,usa,94719374.0,2018
+oc,Oceania,ocaus,Australia,aus,32958721.000000004,2018
+oc,Oceania,ocnzl,New Zealand,nzl,136255.0,2018
+oc,Oceania,ocpyf,French Polynesia,pyf,224.0,2018
+sa,South America,saarg,Argentina,arg,139474182.0,2018
+sa,South America,sabol,Bolivia,bol,3411.0000000000005,2018
+sa,South America,sabra,Brazil,bra,5852.0,2018
+sa,South America,sachl,Chile,chl,10554306.0,2018
+sa,South America,sacol,Colombia,col,22682.0,2018
+sa,South America,saecu,Ecuador,ecu,15373.0,2018
+sa,South America,saper,Peru,per,75837.0,2018
+sa,South America,sapry,Paraguay,pry,332732.0,2018
+sa,South America,saury,Uruguay,ury,7735493.0,2018
+sa,South America,saven,Venezuela,ven,10330.0,2018
+af,Africa,afago,Angola,ago,7256.0,2018
+af,Africa,afcod,Democratic Republic of the Congo,cod,536.0,2018
+af,Africa,afdza,Algeria,dza,29153588.0,2018
+af,Africa,afegy,Egypt,egy,813686083.0,2018
+af,Africa,afgab,Gabon,gab,20.0,2018
+af,Africa,afgha,Ghana,gha,31.0,2018
+af,Africa,aflby,Libya,lby,117357342.0,2018
+af,Africa,afmar,Morocco,mar,860.0,2018
+af,Africa,afmoz,Mozambique,moz,2466904.0,2018
+af,Africa,afnam,Namibia,nam,8713.0,2018
+af,Africa,afswz,Eswatini,swz,23.0,2018
+af,Africa,afsyc,Seychelles,syc,310.0,2018
+af,Africa,afzaf,South Africa,zaf,51401159.00000001,2018
+af,Africa,afzmb,Zambia,zmb,8637.0,2018
+af,Africa,afzwe,Zimbabwe,zwe,7933.0,2018
+as,Asia,asare,United Arab Emirates,are,540450917.0,2018
+as,Asia,asarm,Armenia,arm,665505.0,2018
+as,Asia,asbgd,Bangladesh,bgd,1036.0,2018
+as,Asia,asbhr,Bahrain,bhr,17576.0,2018
+as,Asia,aschn,China,chn,3849254146.0,2018
+as,Asia,asgeo,Georgia,geo,849.0000000000001,2018
+as,Asia,ashkg,Hong Kong,hkg,40712.0,2018
+as,Asia,asidn,Indonesia,idn,30141381.0,2018
+as,Asia,asind,India,ind,221707887.0,2018
+as,Asia,asirq,Iraq,irq,4536370.0,2018
+as,Asia,asisr,Israel,isr,2000.0,2018
+as,Asia,asjpn,Japan,jpn,1451325631.0,2018
+as,Asia,askaz,Kazakhstan,kaz,10936557.999999998,2018
+as,Asia,askgz,Kyrgyzstan,kgz,1575.0,2018
+as,Asia,askor,South Korea,kor,728608025.0,2018
+as,Asia,aslao,Laos,lao,12379.000000000002,2018
+as,Asia,aslka,Sri Lanka,lka,2029.0,2018
+as,Asia,asmys,Malaysia,mys,175180377.00000003,2018
+as,Asia,asnpl,Nepal,npl,1056962.0,2018
+as,Asia,asomn,Oman,omn,305896350.0,2018
+as,Asia,aspak,Pakistan,pak,22145.0,2018
+as,Asia,asphl,Philippines,phl,27880955.0,2018
+as,Asia,asprk,North Korea,prk,12969298.0,2018
+as,Asia,asqat,Qatar,qat,284751194.0,2018
+as,Asia,assau,Saudi Arabia,sau,1066798428.0,2018
+as,Asia,assgp,Singapore,sgp,15.0,2018
+as,Asia,assyr,Syria,syr,304.0,2018
+as,Asia,astha,Thailand,tha,97580.0,2018
+as,Asia,astur,Turkey,tur,547832724.0,2018
+as,Asia,astwn,Chinese Taipei,twn,235515151.0,2018
+as,Asia,asvnm,Vietnam,vnm,147811696.0,2018
+as,Asia,asyem,Yemen,yem,182213.0,2018
+eu,Europe,euand,Andorra,and,624.0,2018
+eu,Europe,euaut,Austria,aut,340417983.0,2018
+eu,Europe,eubel,Belgium,bel,257558848.0,2018
+eu,Europe,eublr,Belarus,blr,89797.99999999999,2018
+eu,Europe,euche,Switzerland,che,5398096.0,2018
+eu,Europe,eucze,Czechia,cze,70745545.0,2018
+eu,Europe,eudeu,Germany,deu,1027405168.0,2018
+eu,Europe,eudnk,Denmark,dnk,2475991.0,2018
+eu,Europe,euesp,Spain,esp,268408630.0,2018
+eu,Europe,eufin,Finland,fin,332862321.0,2018
+eu,Europe,eufra,France,fra,432667247.0,2018
+eu,Europe,eugbr,United Kingdom,gbr,368152002.0,2018
+eu,Europe,euhun,Hungary,hun,126961206.0,2018
+eu,Europe,euirl,Ireland,irl,48.0,2018
+eu,Europe,euisl,Iceland,isl,933317.0,2018
+eu,Europe,euita,Italy,ita,336781363.0,2018
+eu,Europe,eultu,Lithuania,ltu,5.0,2018
+eu,Europe,eulux,Luxembourg,lux,166.0,2018
+eu,Europe,eulva,Latvia,lva,18262.0,2018
+eu,Europe,eunld,Netherlands,nld,786866828.0,2018
+eu,Europe,eunor,Norway,nor,4944979.000000001,2018
+eu,Europe,eupol,Poland,pol,172104270.0,2018
+eu,Europe,euprt,Portugal,prt,3705.0,2018
+eu,Europe,eurou,Romania,rou,87784695.0,2018
+eu,Europe,eurus,Russia,rus,142054525.99999997,2018
+eu,Europe,eusrb,Serbia,srb,162419647.0,2018
+eu,Europe,eusvk,Slovakia,svk,299062991.0,2018
+eu,Europe,eusvn,Slovenia,svn,21140136.0,2018
+eu,Europe,euswe,Sweden,swe,17985221.0,2018
+eu,Europe,euukr,Ukraine,ukr,353141244.0,2018
+na,North America,nacan,Canada,can,766607121.0,2018
+na,North America,nagrd,Grenada,grd,11.000000000000002,2018
+na,North America,namex,Mexico,mex,60507727.0,2018
+na,North America,natto,Trinidad and Tobago,tto,257764511.0,2018
+na,North America,nausa,United States,usa,495987252.0,2018
+oc,Oceania,ocaus,Australia,aus,54448.0,2018
+sa,South America,saarg,Argentina,arg,340447444.0,2018
+sa,South America,sabra,Brazil,bra,4247.0,2018
+sa,South America,sachl,Chile,chl,5265129.999999999,2018
+sa,South America,saper,Peru,per,390000.0,2018
+sa,South America,saury,Uruguay,ury,27.000000000000004,2018
+af,Africa,afago,Angola,ago,1151.0,2019
+af,Africa,afbfa,Burkina Faso,bfa,899336.0,2019
+af,Africa,afbwa,Botswana,bwa,206006.0,2019
+af,Africa,afciv,Cote d'Ivoire,civ,1037.0,2019
+af,Africa,afdza,Algeria,dza,122689037.0,2019
+af,Africa,afegy,Egypt,egy,12476432.000000002,2019
+af,Africa,afeth,Ethiopia,eth,136.0,2019
+af,Africa,afgha,Ghana,gha,723.0,2019
+af,Africa,afgin,Guinea,gin,134021.0,2019
+af,Africa,afken,Kenya,ken,1778881.0,2019
+af,Africa,aflso,Lesotho,lso,778.0,2019
+af,Africa,afmar,Morocco,mar,12794.0,2019
+af,Africa,afmoz,Mozambique,moz,390079644.0,2019
+af,Africa,afnam,Namibia,nam,3221.0,2019
+af,Africa,afnga,Nigeria,nga,43221.0,2019
+af,Africa,afswz,Eswatini,swz,40.99999999999999,2019
+af,Africa,aftun,Tunisia,tun,336345.0,2019
+af,Africa,aftza,Tanzania,tza,35.0,2019
+af,Africa,afzaf,South Africa,zaf,7348570.0,2019
+af,Africa,afzmb,Zambia,zmb,20.0,2019
+af,Africa,afzwe,Zimbabwe,zwe,81.99999999999999,2019
+as,Asia,asare,United Arab Emirates,are,7627276.0,2019
+as,Asia,asaze,Azerbaijan,aze,18254.0,2019
+as,Asia,asbgd,Bangladesh,bgd,40940.0,2019
+as,Asia,asbhr,Bahrain,bhr,874748077.0,2019
+as,Asia,aschn,China,chn,77305289525.0,2019
+as,Asia,ascyp,Cyprus,cyp,54225.0,2019
+as,Asia,asgeo,Georgia,geo,655953.0,2019
+as,Asia,ashkg,Hong Kong,hkg,179683267.0,2019
+as,Asia,asidn,Indonesia,idn,311818483.0,2019
+as,Asia,asind,India,ind,130568309.0,2019
+as,Asia,asirn,Iran,irn,136748.0,2019
+as,Asia,asirq,Iraq,irq,17660969.0,2019
+as,Asia,asisr,Israel,isr,41199.0,2019
+as,Asia,asjor,Jordan,jor,839452.0,2019
+as,Asia,asjpn,Japan,jpn,7986024776.0,2019
+as,Asia,askaz,Kazakhstan,kaz,43578.0,2019
+as,Asia,askgz,Kyrgyzstan,kgz,579981.0,2019
+as,Asia,askhm,Cambodia,khm,280486.0,2019
+as,Asia,askor,South Korea,kor,5409937073.000001,2019
+as,Asia,askwt,Kuwait,kwt,29233.0,2019
+as,Asia,aslao,Laos,lao,218530.0,2019
+as,Asia,asmac,Macau,mac,674.0,2019
+as,Asia,asmmr,Burma,mmr,89458.0,2019
+as,Asia,asmng,Mongolia,mng,81390.0,2019
+as,Asia,asmys,Malaysia,mys,2030957991.0,2019
+as,Asia,asnpl,Nepal,npl,2237576.0,2019
+as,Asia,asomn,Oman,omn,634708821.9999999,2019
+as,Asia,aspak,Pakistan,pak,119260.0,2019
+as,Asia,asphl,Philippines,phl,204728114.0,2019
+as,Asia,aspse,Palestine,pse,37876.0,2019
+as,Asia,asqat,Qatar,qat,818873.0,2019
+as,Asia,assau,Saudi Arabia,sau,95019476.0,2019
+as,Asia,assgp,Singapore,sgp,328501250.0,2019
+as,Asia,assyr,Syria,syr,7484.0,2019
+as,Asia,astha,Thailand,tha,704451.0,2019
+as,Asia,astjk,Tajikistan,tjk,228038.0,2019
+as,Asia,astkm,Turkmenistan,tkm,5239.0,2019
+as,Asia,astur,Turkey,tur,363492559.0,2019
+as,Asia,astwn,Chinese Taipei,twn,1711453289.9999998,2019
+as,Asia,asuzb,Uzbekistan,uzb,140978.0,2019
+as,Asia,asvnm,Vietnam,vnm,723967284.0,2019
+as,Asia,asyem,Yemen,yem,19506.0,2019
+eu,Europe,eualb,Albania,alb,17246.0,2019
+eu,Europe,euaut,Austria,aut,31107839.0,2019
+eu,Europe,eubel,Belgium,bel,276044738.0,2019
+eu,Europe,eubgr,Bulgaria,bgr,320565.0,2019
+eu,Europe,eubih,Bosnia and Herzegovina,bih,7385030.0,2019
+eu,Europe,eublr,Belarus,blr,2279035.9999999995,2019
+eu,Europe,euche,Switzerland,che,155821812.0,2019
+eu,Europe,eucze,Czechia,cze,354541159.0,2019
+eu,Europe,eudeu,Germany,deu,1168302752.0,2019
+eu,Europe,eudnk,Denmark,dnk,1143070.0,2019
+eu,Europe,euesp,Spain,esp,239868825.0,2019
+eu,Europe,euest,Estonia,est,96135.0,2019
+eu,Europe,eufin,Finland,fin,3578911.0,2019
+eu,Europe,eufra,France,fra,747358465.0,2019
+eu,Europe,eugbr,United Kingdom,gbr,434415776.0,2019
+eu,Europe,eugrc,Greece,grc,53318.0,2019
+eu,Europe,euhrv,Croatia,hrv,13519019.000000002,2019
+eu,Europe,euhun,Hungary,hun,94183223.0,2019
+eu,Europe,euirl,Ireland,irl,81544.0,2019
+eu,Europe,euisl,Iceland,isl,2294.0,2019
+eu,Europe,euita,Italy,ita,378941215.0,2019
+eu,Europe,eultu,Lithuania,ltu,580390.0,2019
+eu,Europe,eulux,Luxembourg,lux,35670254.0,2019
+eu,Europe,eulva,Latvia,lva,14658.0,2019
+eu,Europe,eumda,Moldova,mda,470695.0,2019
+eu,Europe,eumkd,North Macedonia,mkd,4614652.0,2019
+eu,Europe,eumlt,Malta,mlt,200314.00000000003,2019
+eu,Europe,eunld,Netherlands,nld,1552461314.0,2019
+eu,Europe,eunor,Norway,nor,5746879.0,2019
+eu,Europe,eupol,Poland,pol,438905543.0,2019
+eu,Europe,euprt,Portugal,prt,34386854.0,2019
+eu,Europe,eurou,Romania,rou,172741493.0,2019
+eu,Europe,eurus,Russia,rus,380803026.0,2019
+eu,Europe,eusrb,Serbia,srb,55854304.00000001,2019
+eu,Europe,eusvk,Slovakia,svk,219470593.0,2019
+eu,Europe,eusvn,Slovenia,svn,110745466.0,2019
+eu,Europe,euswe,Sweden,swe,2508293.0,2019
+eu,Europe,euukr,Ukraine,ukr,142803073.0,2019
+na,North America,nabhs,Bahamas,bhs,90.0,2019
+na,North America,nabrb,Barbados,brb,326829.0,2019
+na,North America,nacan,Canada,can,31376467.0,2019
+na,North America,nacri,Costa Rica,cri,47871.0,2019
+na,North America,nadom,Dominican Republic,dom,47881.00000000001,2019
+na,North America,nagtm,Guatemala,gtm,37213.0,2019
+na,North America,namex,Mexico,mex,102706575.0,2019
+na,North America,naslv,El Salvador,slv,20902.0,2019
+na,North America,natto,Trinidad and Tobago,tto,68951635.0,2019
+na,North America,nausa,United States,usa,141368195.0,2019
+na,North America,navct,Saint Vincent and the Grenadines,vct,44.00000000000001,2019
+na,North America,navgb,British Virgin Islands,vgb,1916.0,2019
+oc,Oceania,ocaus,Australia,aus,59983163.99999999,2019
+oc,Oceania,ocncl,New Caledonia,ncl,777.0,2019
+oc,Oceania,ocnzl,New Zealand,nzl,93427.0,2019
+oc,Oceania,ocpng,Papua New Guinea,png,11557.0,2019
+sa,South America,saarg,Argentina,arg,79667770.00000001,2019
+sa,South America,sabol,Bolivia,bol,12417.0,2019
+sa,South America,sabra,Brazil,bra,48724802.0,2019
+sa,South America,sachl,Chile,chl,23372232.0,2019
+sa,South America,sacol,Colombia,col,18994.0,2019
+sa,South America,saecu,Ecuador,ecu,50220.0,2019
+sa,South America,saper,Peru,per,26801.0,2019
+sa,South America,sapry,Paraguay,pry,37846.0,2019
+sa,South America,saury,Uruguay,ury,47453754.0,2019
+af,Africa,afago,Angola,ago,7837.000000000001,2019
+af,Africa,afbwa,Botswana,bwa,32828.0,2019
+af,Africa,afcod,Democratic Republic of the Congo,cod,2976.0,2019
+af,Africa,afdza,Algeria,dza,128330057.0,2019
+af,Africa,afegy,Egypt,egy,696419655.0,2019
+af,Africa,afeth,Ethiopia,eth,7732.000000000001,2019
+af,Africa,aflby,Libya,lby,187715193.0,2019
+af,Africa,afmoz,Mozambique,moz,2701629.0,2019
+af,Africa,afnga,Nigeria,nga,20.0,2019
+af,Africa,afsdn,Sudan,sdn,597.0,2019
+af,Africa,afzaf,South Africa,zaf,44435320.0,2019
+af,Africa,afzwe,Zimbabwe,zwe,10649.0,2019
+as,Asia,asare,United Arab Emirates,are,705447724.0,2019
+as,Asia,asarm,Armenia,arm,1085751.0,2019
+as,Asia,asaze,Azerbaijan,aze,627.0,2019
+as,Asia,aschn,China,chn,5791118153.0,2019
+as,Asia,ashkg,Hong Kong,hkg,643078.0,2019
+as,Asia,asidn,Indonesia,idn,21817698.0,2019
+as,Asia,asind,India,ind,33447279.0,2019
+as,Asia,asirn,Iran,irn,9258.0,2019
+as,Asia,asirq,Iraq,irq,124970.0,2019
+as,Asia,asisr,Israel,isr,1000.0,2019
+as,Asia,asjpn,Japan,jpn,1327774468.0,2019
+as,Asia,askaz,Kazakhstan,kaz,4931.999999999999,2019
+as,Asia,askgz,Kyrgyzstan,kgz,707385.0,2019
+as,Asia,askhm,Cambodia,khm,21021.0,2019
+as,Asia,askor,South Korea,kor,659226179.0,2019
+as,Asia,askwt,Kuwait,kwt,26477.0,2019
+as,Asia,aslao,Laos,lao,63448.99999999999,2019
+as,Asia,asmmr,Burma,mmr,5167.999999999999,2019
+as,Asia,asmys,Malaysia,mys,205144200.0,2019
+as,Asia,asnpl,Nepal,npl,1059857.0,2019
+as,Asia,asomn,Oman,omn,393949102.00000006,2019
+as,Asia,asphl,Philippines,phl,39528026.0,2019
+as,Asia,asqat,Qatar,qat,365434056.0,2019
+as,Asia,assau,Saudi Arabia,sau,1031706984.0,2019
+as,Asia,assgp,Singapore,sgp,31228.0,2019
+as,Asia,astha,Thailand,tha,53970.0,2019
+as,Asia,astur,Turkey,tur,573831769.0,2019
+as,Asia,astwn,Chinese Taipei,twn,228666278.0,2019
+as,Asia,asvnm,Vietnam,vnm,112716835.0,2019
+as,Asia,asyem,Yemen,yem,259395.00000000003,2019
+eu,Europe,euaut,Austria,aut,378978565.0,2019
+eu,Europe,eubel,Belgium,bel,281965170.0,2019
+eu,Europe,eublr,Belarus,blr,52520.0,2019
+eu,Europe,euche,Switzerland,che,66.0,2019
+eu,Europe,eucze,Czechia,cze,66661557.99999999,2019
+eu,Europe,eudeu,Germany,deu,979174725.0,2019
+eu,Europe,eudnk,Denmark,dnk,1462614.0,2019
+eu,Europe,euesp,Spain,esp,218898906.00000003,2019
+eu,Europe,eufin,Finland,fin,416614258.0,2019
+eu,Europe,eufra,France,fra,400049388.0,2019
+eu,Europe,eugbr,United Kingdom,gbr,407718850.0,2019
+eu,Europe,eugrc,Greece,grc,177.0,2019
+eu,Europe,euhun,Hungary,hun,70624714.0,2019
+eu,Europe,euirl,Ireland,irl,60543.0,2019
+eu,Europe,euisl,Iceland,isl,919356.0,2019
+eu,Europe,euita,Italy,ita,246165791.0,2019
+eu,Europe,eulux,Luxembourg,lux,234.0,2019
+eu,Europe,eumlt,Malta,mlt,3852.0,2019
+eu,Europe,eunld,Netherlands,nld,737284070.0,2019
+eu,Europe,eunor,Norway,nor,6258878.0,2019
+eu,Europe,eupol,Poland,pol,93719114.0,2019
+eu,Europe,euprt,Portugal,prt,26862.0,2019
+eu,Europe,eurou,Romania,rou,126662290.0,2019
+eu,Europe,eurus,Russia,rus,212848238.0,2019
+eu,Europe,eusrb,Serbia,srb,215951412.0,2019
+eu,Europe,eusvk,Slovakia,svk,245665268.0,2019
+eu,Europe,eusvn,Slovenia,svn,17387179.0,2019
+eu,Europe,euswe,Sweden,swe,11329521.0,2019
+eu,Europe,euukr,Ukraine,ukr,422638830.0,2019
+na,North America,nacan,Canada,can,767984449.0,2019
+na,North America,namex,Mexico,mex,4467656.0,2019
+na,North America,natto,Trinidad and Tobago,tto,326866839.0,2019
+na,North America,nausa,United States,usa,595682182.0,2019
+oc,Oceania,ocaus,Australia,aus,43316227.0,2019
+oc,Oceania,ocnzl,New Zealand,nzl,20573.0,2019
+oc,Oceania,ocpng,Papua New Guinea,png,8027.0,2019
+oc,Oceania,octon,Tonga,ton,10976042.0,2019
+sa,South America,saarg,Argentina,arg,218565712.0,2019
+sa,South America,sabra,Brazil,bra,21465749.0,2019
+sa,South America,sachl,Chile,chl,6251130.000000001,2019
+af,Africa,afbwa,Botswana,bwa,189855.0,2020
+af,Africa,afciv,Cote d'Ivoire,civ,2489.0,2020
+af,Africa,afcod,Democratic Republic of the Congo,cod,3193.0,2020
+af,Africa,afcog,Republic of the Congo,cog,12500950.0,2020
+af,Africa,afdza,Algeria,dza,174284370.0,2020
+af,Africa,afgmb,Gambia,gmb,219.0,2020
+af,Africa,aflso,Lesotho,lso,99.0,2020
+af,Africa,afmar,Morocco,mar,10153.999999999998,2020
+af,Africa,afmli,Mali,mli,1460.0,2020
+af,Africa,afmoz,Mozambique,moz,413024577.0,2020
+af,Africa,afmrt,Mauritania,mrt,1643934.0,2020
+af,Africa,afnam,Namibia,nam,440358.00000000006,2020
+af,Africa,afnga,Nigeria,nga,27814.0,2020
+af,Africa,afsen,Senegal,sen,16700.0,2020
+af,Africa,aftun,Tunisia,tun,200408.0,2020
+af,Africa,aftza,Tanzania,tza,35.0,2020
+af,Africa,afzaf,South Africa,zaf,25770.0,2020
+as,Asia,asare,United Arab Emirates,are,1721892.0,2020
+as,Asia,asarm,Armenia,arm,286868.0,2020
+as,Asia,asaze,Azerbaijan,aze,1175.0,2020
+as,Asia,asbgd,Bangladesh,bgd,1145398.0000000002,2020
+as,Asia,asbhr,Bahrain,bhr,715006213.0000001,2020
+as,Asia,aschn,China,chn,95573757431.0,2020
+as,Asia,ascyp,Cyprus,cyp,29684.0,2020
+as,Asia,asgeo,Georgia,geo,156743.0,2020
+as,Asia,ashkg,Hong Kong,hkg,1909350946.0,2020
+as,Asia,asidn,Indonesia,idn,599570599.0,2020
+as,Asia,asind,India,ind,44965050.0,2020
+as,Asia,asirn,Iran,irn,109291.0,2020
+as,Asia,asirq,Iraq,irq,28945549.0,2020
+as,Asia,asisr,Israel,isr,29605.0,2020
+as,Asia,asjor,Jordan,jor,499002.00000000006,2020
+as,Asia,asjpn,Japan,jpn,7202631812.0,2020
+as,Asia,askaz,Kazakhstan,kaz,55935.0,2020
+as,Asia,askgz,Kyrgyzstan,kgz,609906.0,2020
+as,Asia,askhm,Cambodia,khm,4907.0,2020
+as,Asia,askor,South Korea,kor,5678886488.0,2020
+as,Asia,askwt,Kuwait,kwt,27405.0,2020
+as,Asia,aslao,Laos,lao,1738.0000000000002,2020
+as,Asia,asmmr,Burma,mmr,25098.000000000004,2020
+as,Asia,asmng,Mongolia,mng,6768.0,2020
+as,Asia,asmys,Malaysia,mys,1961752710.0,2020
+as,Asia,asnpl,Nepal,npl,2495022.9999999995,2020
+as,Asia,asomn,Oman,omn,594225362.0,2020
+as,Asia,aspak,Pakistan,pak,44633.0,2020
+as,Asia,asphl,Philippines,phl,283608439.0,2020
+as,Asia,aspse,Palestine,pse,114331.0,2020
+as,Asia,asqat,Qatar,qat,77786.0,2020
+as,Asia,assau,Saudi Arabia,sau,36122768.0,2020
+as,Asia,assgp,Singapore,sgp,2213799431.0,2020
+as,Asia,astha,Thailand,tha,359308.0,2020
+as,Asia,astjk,Tajikistan,tjk,511366.0,2020
+as,Asia,astkm,Turkmenistan,tkm,91953.0,2020
+as,Asia,astur,Turkey,tur,406163798.00000006,2020
+as,Asia,astwn,Chinese Taipei,twn,1848554134.0,2020
+as,Asia,asuzb,Uzbekistan,uzb,60883.99999999999,2020
+as,Asia,asvnm,Vietnam,vnm,1361472761.0,2020
+eu,Europe,eualb,Albania,alb,742.0,2020
+eu,Europe,euaut,Austria,aut,26681775.0,2020
+eu,Europe,eubel,Belgium,bel,261933521.0,2020
+eu,Europe,eubgr,Bulgaria,bgr,203557.0,2020
+eu,Europe,eubih,Bosnia and Herzegovina,bih,73077.0,2020
+eu,Europe,eublr,Belarus,blr,2128554.0,2020
+eu,Europe,euche,Switzerland,che,362372887.0,2020
+eu,Europe,eucze,Czechia,cze,316160280.0,2020
+eu,Europe,eudeu,Germany,deu,909302168.0,2020
+eu,Europe,eudnk,Denmark,dnk,1236591.0,2020
+eu,Europe,euesp,Spain,esp,168098840.0,2020
+eu,Europe,euest,Estonia,est,104222.0,2020
+eu,Europe,eufin,Finland,fin,2126467.0,2020
+eu,Europe,eufra,France,fra,585604375.0,2020
+eu,Europe,eugbr,United Kingdom,gbr,397402553.0,2020
+eu,Europe,eugrc,Greece,grc,52140.0,2020
+eu,Europe,euhrv,Croatia,hrv,101636.0,2020
+eu,Europe,euhun,Hungary,hun,47487790.0,2020
+eu,Europe,euirl,Ireland,irl,80915.0,2020
+eu,Europe,euisl,Iceland,isl,2417.0,2020
+eu,Europe,euita,Italy,ita,303012872.0,2020
+eu,Europe,eultu,Lithuania,ltu,212843.0,2020
+eu,Europe,eulux,Luxembourg,lux,24410821.0,2020
+eu,Europe,eulva,Latvia,lva,7646.000000000001,2020
+eu,Europe,eumda,Moldova,mda,379009.0,2020
+eu,Europe,eumkd,North Macedonia,mkd,6534606.000000001,2020
+eu,Europe,eumlt,Malta,mlt,8.0,2020
+eu,Europe,eunld,Netherlands,nld,1220633454.0,2020
+eu,Europe,eunor,Norway,nor,6624918.0,2020
+eu,Europe,eupol,Poland,pol,387777629.0,2020
+eu,Europe,euprt,Portugal,prt,1357924.0,2020
+eu,Europe,eurou,Romania,rou,235388342.0,2020
+eu,Europe,eurus,Russia,rus,417725757.0,2020
+eu,Europe,eusrb,Serbia,srb,78317953.0,2020
+eu,Europe,eusvk,Slovakia,svk,135134747.0,2020
+eu,Europe,eusvn,Slovenia,svn,98083826.0,2020
+eu,Europe,euswe,Sweden,swe,2171139.0000000005,2020
+eu,Europe,euukr,Ukraine,ukr,67128066.0,2020
+na,North America,nabhs,Bahamas,bhs,16910151.0,2020
+na,North America,nabrb,Barbados,brb,692730.0,2020
+na,North America,nacan,Canada,can,7775395.0,2020
+na,North America,nacri,Costa Rica,cri,132083.0,2020
+na,North America,nadom,Dominican Republic,dom,20299.0,2020
+na,North America,nagtm,Guatemala,gtm,54403.0,2020
+na,North America,namex,Mexico,mex,153173200.00000003,2020
+na,North America,nanic,Nicaragua,nic,28.0,2020
+na,North America,naslv,El Salvador,slv,21837.0,2020
+na,North America,natto,Trinidad and Tobago,tto,44424249.0,2020
+na,North America,nausa,United States,usa,53833979.0,2020
+oc,Oceania,ocaus,Australia,aus,67906967.0,2020
+oc,Oceania,ocfsm,Micronesia,fsm,8746.0,2020
+oc,Oceania,ocnzl,New Zealand,nzl,65646.99999999999,2020
+oc,Oceania,ocpng,Papua New Guinea,png,1146.0,2020
+sa,South America,saarg,Argentina,arg,114680089.0,2020
+sa,South America,sabra,Brazil,bra,703117.0,2020
+sa,South America,sachl,Chile,chl,9629613.999999998,2020
+sa,South America,sacol,Colombia,col,29143.0,2020
+sa,South America,saecu,Ecuador,ecu,33146.0,2020
+sa,South America,saper,Peru,per,56174.0,2020
+sa,South America,sapry,Paraguay,pry,557533.0,2020
+sa,South America,saury,Uruguay,ury,30954161.0,2020
+af,Africa,afbwa,Botswana,bwa,20796.0,2020
+af,Africa,afcod,Democratic Republic of the Congo,cod,120.0,2020
+af,Africa,afdza,Algeria,dza,175765038.0,2020
+af,Africa,afegy,Egypt,egy,721876403.0,2020
+af,Africa,afken,Kenya,ken,1706.0,2020
+af,Africa,aflby,Libya,lby,28111282.0,2020
+af,Africa,aflso,Lesotho,lso,78.00000000000001,2020
+af,Africa,afmar,Morocco,mar,1037.0,2020
+af,Africa,afmoz,Mozambique,moz,1938334.0,2020
+af,Africa,aftza,Tanzania,tza,162.0,2020
+af,Africa,afzaf,South Africa,zaf,1957.0,2020
+af,Africa,afzmb,Zambia,zmb,7465.0,2020
+as,Asia,asare,United Arab Emirates,are,444105506.0,2020
+as,Asia,asarm,Armenia,arm,768817.0,2020
+as,Asia,asbgd,Bangladesh,bgd,2274716.0,2020
+as,Asia,asbhr,Bahrain,bhr,7354733.0,2020
+as,Asia,aschn,China,chn,4536919097.0,2020
+as,Asia,ashkg,Hong Kong,hkg,43917.0,2020
+as,Asia,asidn,Indonesia,idn,52682006.0,2020
+as,Asia,asind,India,ind,84337027.0,2020
+as,Asia,asjpn,Japan,jpn,1011637530.0,2020
+as,Asia,askaz,Kazakhstan,kaz,3030.0,2020
+as,Asia,askgz,Kyrgyzstan,kgz,674138.0,2020
+as,Asia,askor,South Korea,kor,612012675.0,2020
+as,Asia,aslao,Laos,lao,150477.0,2020
+as,Asia,asmmr,Burma,mmr,482.00000000000006,2020
+as,Asia,asmys,Malaysia,mys,310190171.0,2020
+as,Asia,asnpl,Nepal,npl,370427.0,2020
+as,Asia,asomn,Oman,omn,290894556.0,2020
+as,Asia,aspak,Pakistan,pak,18847.0,2020
+as,Asia,asphl,Philippines,phl,38277120.99999999,2020
+as,Asia,asqat,Qatar,qat,67491139.0,2020
+as,Asia,assau,Saudi Arabia,sau,957540785.0,2020
+as,Asia,assgp,Singapore,sgp,81.99999999999999,2020
+as,Asia,astha,Thailand,tha,41160.0,2020
+as,Asia,astur,Turkey,tur,498380430.0,2020
+as,Asia,astwn,Chinese Taipei,twn,83118087.0,2020
+as,Asia,asvnm,Vietnam,vnm,172544230.0,2020
+as,Asia,asyem,Yemen,yem,742577.0,2020
+eu,Europe,euaut,Austria,aut,476682124.0,2020
+eu,Europe,eubel,Belgium,bel,198262574.0,2020
+eu,Europe,eubih,Bosnia and Herzegovina,bih,45.0,2020
+eu,Europe,eublr,Belarus,blr,50363.0,2020
+eu,Europe,euche,Switzerland,che,117.0,2020
+eu,Europe,eucze,Czechia,cze,73374251.0,2020
+eu,Europe,eudeu,Germany,deu,922719925.0,2020
+eu,Europe,eudnk,Denmark,dnk,1985.0,2020
+eu,Europe,euesp,Spain,esp,154993594.0,2020
+eu,Europe,eufin,Finland,fin,269483743.0,2020
+eu,Europe,eufra,France,fra,356820540.0,2020
+eu,Europe,eugbr,United Kingdom,gbr,334954704.0,2020
+eu,Europe,euhun,Hungary,hun,57896535.0,2020
+eu,Europe,euirl,Ireland,irl,835863.0,2020
+eu,Europe,euisl,Iceland,isl,1344938.9999999998,2020
+eu,Europe,euita,Italy,ita,128691749.0,2020
+eu,Europe,eultu,Lithuania,ltu,2476.0,2020
+eu,Europe,eunld,Netherlands,nld,727490291.0,2020
+eu,Europe,eunor,Norway,nor,4592609.999999999,2020
+eu,Europe,eupol,Poland,pol,128177406.0,2020
+eu,Europe,euprt,Portugal,prt,737667.9999999999,2020
+eu,Europe,eurou,Romania,rou,27494669.0,2020
+eu,Europe,eurus,Russia,rus,169858606.0,2020
+eu,Europe,eusrb,Serbia,srb,60273498.0,2020
+eu,Europe,eusvk,Slovakia,svk,148952865.0,2020
+eu,Europe,eusvn,Slovenia,svn,9212746.0,2020
+eu,Europe,euswe,Sweden,swe,2730804.0,2020
+eu,Europe,euukr,Ukraine,ukr,135263194.0,2020
+na,North America,nacan,Canada,can,601445804.0,2020
+na,North America,nalca,Saint Lucia,lca,31209.0,2020
+na,North America,namex,Mexico,mex,32124.000000000004,2020
+na,North America,natto,Trinidad and Tobago,tto,215815867.0,2020
+na,North America,nausa,United States,usa,556181948.0,2020
+oc,Oceania,ocaus,Australia,aus,35113.0,2020
+oc,Oceania,ocncl,New Caledonia,ncl,20008.0,2020
+oc,Oceania,ocpng,Papua New Guinea,png,1301.9999999999998,2020
+sa,South America,saarg,Argentina,arg,197098790.0,2020
+sa,South America,sabra,Brazil,bra,28600992.0,2020
+sa,South America,sachl,Chile,chl,587.0,2020
+sa,South America,saecu,Ecuador,ecu,26114.0,2020
+af,Africa,afago,Angola,ago,537241.0,2021
+af,Africa,afbwa,Botswana,bwa,369434.0,2021
+af,Africa,afcod,Democratic Republic of the Congo,cod,39554.0,2021
+af,Africa,afcpv,Cape Verde,cpv,8367079.0,2021
+af,Africa,afdza,Algeria,dza,319737544.0,2021
+af,Africa,afegy,Egypt,egy,5410262.0,2021
+af,Africa,afeth,Ethiopia,eth,3171.9999999999995,2021
+af,Africa,afgmb,Gambia,gmb,6533.0,2021
+af,Africa,afken,Kenya,ken,9456952.0,2021
+af,Africa,afmar,Morocco,mar,6520.0,2021
+af,Africa,afmoz,Mozambique,moz,890952855.9999999,2021
+af,Africa,afnam,Namibia,nam,3438.0,2021
+af,Africa,afnga,Nigeria,nga,54988.0,2021
+af,Africa,afsen,Senegal,sen,7548.999999999999,2021
+af,Africa,afsyc,Seychelles,syc,8.0,2021
+af,Africa,aftun,Tunisia,tun,23835.0,2021
+af,Africa,aftza,Tanzania,tza,9628.0,2021
+af,Africa,afzaf,South Africa,zaf,114744.0,2021
+af,Africa,afzmb,Zambia,zmb,953.0,2021
+af,Africa,afzwe,Zimbabwe,zwe,3366.0,2021
+as,Asia,asare,United Arab Emirates,are,5095019.0,2021
+as,Asia,asarm,Armenia,arm,218966.0,2021
+as,Asia,asaze,Azerbaijan,aze,3839.0,2021
+as,Asia,asbgd,Bangladesh,bgd,2269518.0,2021
+as,Asia,asbhr,Bahrain,bhr,2179763890.0,2021
+as,Asia,aschn,China,chn,142312167123.0,2021
+as,Asia,ascyp,Cyprus,cyp,36578.0,2021
+as,Asia,asgeo,Georgia,geo,14046.0,2021
+as,Asia,ashkg,Hong Kong,hkg,262638052.0,2021
+as,Asia,asidn,Indonesia,idn,946813849.0,2021
+as,Asia,asind,India,ind,116074794.0,2021
+as,Asia,asirn,Iran,irn,113846.0,2021
+as,Asia,asirq,Iraq,irq,34592757.0,2021
+as,Asia,asisr,Israel,isr,61307.0,2021
+as,Asia,asjor,Jordan,jor,883087.9999999998,2021
+as,Asia,asjpn,Japan,jpn,13262343770.0,2021
+as,Asia,askaz,Kazakhstan,kaz,279496.0,2021
+as,Asia,askgz,Kyrgyzstan,kgz,872736.0000000001,2021
+as,Asia,askor,South Korea,kor,9338948883.0,2021
+as,Asia,askwt,Kuwait,kwt,13.000000000000002,2021
+as,Asia,aslao,Laos,lao,22122.0,2021
+as,Asia,asmac,Macau,mac,104409.0,2021
+as,Asia,asmmr,Burma,mmr,9419.0,2021
+as,Asia,asmng,Mongolia,mng,158175.0,2021
+as,Asia,asmys,Malaysia,mys,3122437794.0,2021
+as,Asia,asnpl,Nepal,npl,5856101.0,2021
+as,Asia,asomn,Oman,omn,1241341141.0,2021
+as,Asia,aspak,Pakistan,pak,73113.0,2021
+as,Asia,asphl,Philippines,phl,710661138.0,2021
+as,Asia,aspse,Palestine,pse,32718.000000000004,2021
+as,Asia,asqat,Qatar,qat,1566205.0,2021
+as,Asia,assau,Saudi Arabia,sau,389721.0,2021
+as,Asia,assgp,Singapore,sgp,91670516.0,2021
+as,Asia,astha,Thailand,tha,429628.0,2021
+as,Asia,astjk,Tajikistan,tjk,728253.9999999999,2021
+as,Asia,astkm,Turkmenistan,tkm,255796.0,2021
+as,Asia,astur,Turkey,tur,710574582.0,2021
+as,Asia,astwn,Chinese Taipei,twn,3949600787.0,2021
+as,Asia,asuzb,Uzbekistan,uzb,22092.0,2021
+as,Asia,asvnm,Vietnam,vnm,2807630527.0,2021
+eu,Europe,eualb,Albania,alb,5507.999999999999,2021
+eu,Europe,euaut,Austria,aut,58003845.0,2021
+eu,Europe,eubel,Belgium,bel,509459853.00000006,2021
+eu,Europe,eubgr,Bulgaria,bgr,647790.0,2021
+eu,Europe,eubih,Bosnia and Herzegovina,bih,3107244.0000000005,2021
+eu,Europe,eublr,Belarus,blr,2288121.0,2021
+eu,Europe,euche,Switzerland,che,918272.0,2021
+eu,Europe,eucze,Czechia,cze,678211739.0,2021
+eu,Europe,eudeu,Germany,deu,1652634348.0,2021
+eu,Europe,eudnk,Denmark,dnk,889090.0,2021
+eu,Europe,euesp,Spain,esp,439045412.0,2021
+eu,Europe,euest,Estonia,est,514643.0,2021
+eu,Europe,eufin,Finland,fin,694577.0,2021
+eu,Europe,eufra,France,fra,1011459622.0,2021
+eu,Europe,eugbr,United Kingdom,gbr,817984446.0,2021
+eu,Europe,eugrc,Greece,grc,46581.0,2021
+eu,Europe,euhrv,Croatia,hrv,10027474.0,2021
+eu,Europe,euhun,Hungary,hun,68675855.0,2021
+eu,Europe,euirl,Ireland,irl,46516.99999999999,2021
+eu,Europe,euisl,Iceland,isl,61.0,2021
+eu,Europe,euita,Italy,ita,628362627.0,2021
+eu,Europe,eultu,Lithuania,ltu,5832.0,2021
+eu,Europe,eulux,Luxembourg,lux,19083325.0,2021
+eu,Europe,eulva,Latvia,lva,22902.0,2021
+eu,Europe,eumda,Moldova,mda,278778.0,2021
+eu,Europe,eumkd,North Macedonia,mkd,7250240.0,2021
+eu,Europe,eumlt,Malta,mlt,147.0,2021
+eu,Europe,eumne,Montenegro,mne,216147.00000000003,2021
+eu,Europe,eunld,Netherlands,nld,2064958338.0,2021
+eu,Europe,eunor,Norway,nor,7354889.0,2021
+eu,Europe,eupol,Poland,pol,637022546.0,2021
+eu,Europe,euprt,Portugal,prt,351484.0,2021
+eu,Europe,eurou,Romania,rou,299133480.0,2021
+eu,Europe,eurus,Russia,rus,677596502.0,2021
+eu,Europe,eusrb,Serbia,srb,91751784.0,2021
+eu,Europe,eusvk,Slovakia,svk,280691018.0,2021
+eu,Europe,eusvn,Slovenia,svn,169094308.0,2021
+eu,Europe,euswe,Sweden,swe,4878926.0,2021
+eu,Europe,euukr,Ukraine,ukr,73495244.0,2021
+na,North America,nabrb,Barbados,brb,212974.00000000003,2021
+na,North America,nacan,Canada,can,51635805.0,2021
+na,North America,nacri,Costa Rica,cri,120388.0,2021
+na,North America,nadom,Dominican Republic,dom,20430.0,2021
+na,North America,nagtm,Guatemala,gtm,83355.0,2021
+na,North America,namex,Mexico,mex,293045053.0,2021
+na,North America,napan,Panama,pan,3925293.0,2021
+na,North America,naslv,El Salvador,slv,36155.0,2021
+na,North America,natto,Trinidad and Tobago,tto,31393889.0,2021
+na,North America,nausa,United States,usa,76889513.0,2021
+oc,Oceania,ocaus,Australia,aus,143255785.0,2021
+oc,Oceania,ocnzl,New Zealand,nzl,262457.0,2021
+oc,Oceania,ocpyf,French Polynesia,pyf,210.0,2021
+sa,South America,saarg,Argentina,arg,91796837.0,2021
+sa,South America,sabol,Bolivia,bol,15.0,2021
+sa,South America,sabra,Brazil,bra,133184.0,2021
+sa,South America,sachl,Chile,chl,12331759.0,2021
+sa,South America,sacol,Colombia,col,75064.0,2021
+sa,South America,saecu,Ecuador,ecu,82622.0,2021
+sa,South America,saguy,Guyana,guy,47961.0,2021
+sa,South America,saper,Peru,per,21866.0,2021
+sa,South America,sapry,Paraguay,pry,168030.0,2021
+sa,South America,saury,Uruguay,ury,1310418.0,2021
+af,Africa,afbwa,Botswana,bwa,59023.99999999999,2021
+af,Africa,afdza,Algeria,dza,701729329.0,2021
+af,Africa,afegy,Egypt,egy,1305818422.0,2021
+af,Africa,afeth,Ethiopia,eth,36400.0,2021
+af,Africa,afken,Kenya,ken,1047208.0,2021
+af,Africa,aflby,Libya,lby,142833442.0,2021
+af,Africa,afmoz,Mozambique,moz,3836722.0,2021
+af,Africa,afnam,Namibia,nam,670.0,2021
+af,Africa,aftza,Tanzania,tza,35.0,2021
+af,Africa,afzaf,South Africa,zaf,816863.0,2021
+af,Africa,afzmb,Zambia,zmb,70053.0,2021
+af,Africa,afzwe,Zimbabwe,zwe,28029.0,2021
+as,Asia,asare,United Arab Emirates,are,1122634015.0,2021
+as,Asia,asarm,Armenia,arm,1117226.0,2021
+as,Asia,asbhr,Bahrain,bhr,25146932.0,2021
+as,Asia,asbtn,Bhutan,btn,37.00000000000001,2021
+as,Asia,aschn,China,chn,4238821139.0,2021
+as,Asia,asgeo,Georgia,geo,53040.0,2021
+as,Asia,ashkg,Hong Kong,hkg,529870.0,2021
+as,Asia,asidn,Indonesia,idn,191353230.0,2021
+as,Asia,asind,India,ind,66813735.0,2021
+as,Asia,asirq,Iraq,irq,4480.0,2021
+as,Asia,asjpn,Japan,jpn,1752449841.0,2021
+as,Asia,askaz,Kazakhstan,kaz,17291.0,2021
+as,Asia,askhm,Cambodia,khm,19350.0,2021
+as,Asia,askor,South Korea,kor,1277976658.0,2021
+as,Asia,askwt,Kuwait,kwt,78585.0,2021
+as,Asia,aslao,Laos,lao,32617.0,2021
+as,Asia,asmmr,Burma,mmr,2506.9999999999995,2021
+as,Asia,asmys,Malaysia,mys,191905345.0,2021
+as,Asia,asnpl,Nepal,npl,372051.0,2021
+as,Asia,asomn,Oman,omn,507192455.0,2021
+as,Asia,aspak,Pakistan,pak,2001.0,2021
+as,Asia,asphl,Philippines,phl,27132322.0,2021
+as,Asia,asqat,Qatar,qat,298303513.0,2021
+as,Asia,assau,Saudi Arabia,sau,1445848175.0,2021
+as,Asia,assgp,Singapore,sgp,27716895.0,2021
+as,Asia,astha,Thailand,tha,55121.0,2021
+as,Asia,astur,Turkey,tur,994952723.0,2021
+as,Asia,astwn,Chinese Taipei,twn,244221568.0,2021
+as,Asia,asuzb,Uzbekistan,uzb,3136.0,2021
+as,Asia,asvnm,Vietnam,vnm,399970810.0,2021
+as,Asia,asyem,Yemen,yem,4275017.0,2021
+eu,Europe,euaut,Austria,aut,805943273.0,2021
+eu,Europe,eubel,Belgium,bel,441776313.0,2021
+eu,Europe,eublr,Belarus,blr,84956.0,2021
+eu,Europe,euche,Switzerland,che,141899.00000000003,2021
+eu,Europe,eucze,Czechia,cze,129070455.0,2021
+eu,Europe,eudeu,Germany,deu,2116269164.0,2021
+eu,Europe,eudnk,Denmark,dnk,2497216.0,2021
+eu,Europe,euesp,Spain,esp,339466707.0,2021
+eu,Europe,euest,Estonia,est,1.0,2021
+eu,Europe,eufin,Finland,fin,648219820.0,2021
+eu,Europe,eufra,France,fra,791427767.0,2021
+eu,Europe,eugbr,United Kingdom,gbr,709656595.0,2021
+eu,Europe,euhun,Hungary,hun,41519912.0,2021
+eu,Europe,euirl,Ireland,irl,3390.0,2021
+eu,Europe,euisl,Iceland,isl,3022512.0,2021
+eu,Europe,euita,Italy,ita,470020056.0,2021
+eu,Europe,eultu,Lithuania,ltu,856.0,2021
+eu,Europe,eulva,Latvia,lva,11015.0,2021
+eu,Europe,eunld,Netherlands,nld,1842024358.0,2021
+eu,Europe,eunor,Norway,nor,8150917.0,2021
+eu,Europe,eupol,Poland,pol,141205418.0,2021
+eu,Europe,euprt,Portugal,prt,28005.0,2021
+eu,Europe,eurou,Romania,rou,191335662.0,2021
+eu,Europe,eurus,Russia,rus,460705175.0,2021
+eu,Europe,eusrb,Serbia,srb,142880077.0,2021
+eu,Europe,eusvk,Slovakia,svk,574994990.0,2021
+eu,Europe,eusvn,Slovenia,svn,39971103.0,2021
+eu,Europe,euswe,Sweden,swe,2306955.0,2021
+eu,Europe,euukr,Ukraine,ukr,197946103.0,2021
+na,North America,nablz,Belize,blz,3753.0,2021
+na,North America,nacan,Canada,can,763086715.0,2021
+na,North America,namex,Mexico,mex,34487219.0,2021
+na,North America,natto,Trinidad and Tobago,tto,468900728.0,2021
+na,North America,nausa,United States,usa,1053498158.0,2021
+oc,Oceania,ocaus,Australia,aus,224.0,2021
+oc,Oceania,ocpng,Papua New Guinea,png,5.0,2021
+sa,South America,saarg,Argentina,arg,702641359.0,2021
+sa,South America,sabra,Brazil,bra,85421620.0,2021
+sa,South America,sachl,Chile,chl,27474369.0,2021
+sa,South America,sacol,Colombia,col,1684.0000000000002,2021
+sa,South America,saecu,Ecuador,ecu,6.0,2021
+af,Africa,afago,Angola,ago,474.0,2022
+af,Africa,afbwa,Botswana,bwa,75884.0,2022
+af,Africa,afcod,Democratic Republic of the Congo,cod,3013.0,2022
+af,Africa,afdza,Algeria,dza,275618476.0,2022
+af,Africa,afegy,Egypt,egy,8035776.0,2022
+af,Africa,afgha,Ghana,gha,2539.0,2022
+af,Africa,afken,Kenya,ken,18050279.0,2022
+af,Africa,afmar,Morocco,mar,6701.0,2022
+af,Africa,afmli,Mali,mli,305.0,2022
+af,Africa,afmoz,Mozambique,moz,479859791.0,2022
+af,Africa,afmrt,Mauritania,mrt,206.00000000000003,2022
+af,Africa,afnam,Namibia,nam,494.0,2022
+af,Africa,afswz,Eswatini,swz,13061.0,2022
+af,Africa,aftza,Tanzania,tza,50376.00000000001,2022
+af,Africa,afzaf,South Africa,zaf,93967.0,2022
+af,Africa,afzmb,Zambia,zmb,355.0,2022
+af,Africa,afzwe,Zimbabwe,zwe,44800.0,2022
+as,Asia,asare,United Arab Emirates,are,20768943.0,2022
+as,Asia,asarm,Armenia,arm,2796.0000000000005,2022
+as,Asia,asaze,Azerbaijan,aze,6126.0,2022
+as,Asia,asbhr,Bahrain,bhr,1605447335.0,2022
+as,Asia,aschn,China,chn,101126376600.0,2022
+as,Asia,ascyp,Cyprus,cyp,27411.000000000004,2022
+as,Asia,ashkg,Hong Kong,hkg,15920217.0,2022
+as,Asia,asidn,Indonesia,idn,873333143.0000001,2022
+as,Asia,asind,India,ind,190794715.0,2022
+as,Asia,asirn,Iran,irn,365532.0,2022
+as,Asia,asirq,Iraq,irq,970383.0,2022
+as,Asia,asisr,Israel,isr,29647.0,2022
+as,Asia,asjor,Jordan,jor,2569479.0,2022
+as,Asia,asjpn,Japan,jpn,10185180019.0,2022
+as,Asia,askaz,Kazakhstan,kaz,85579.0,2022
+as,Asia,askgz,Kyrgyzstan,kgz,688776.0,2022
+as,Asia,askor,South Korea,kor,6275341290.0,2022
+as,Asia,aslao,Laos,lao,81236.0,2022
+as,Asia,asmac,Macau,mac,231302.00000000003,2022
+as,Asia,asmmr,Burma,mmr,24355.0,2022
+as,Asia,asmys,Malaysia,mys,1668413352.0000002,2022
+as,Asia,asnpl,Nepal,npl,3990784.0,2022
+as,Asia,asomn,Oman,omn,827132756.0000001,2022
+as,Asia,aspak,Pakistan,pak,11587.0,2022
+as,Asia,asphl,Philippines,phl,395992751.0,2022
+as,Asia,aspse,Palestine,pse,36137.0,2022
+as,Asia,asqat,Qatar,qat,15347174.0,2022
+as,Asia,assau,Saudi Arabia,sau,120643.0,2022
+as,Asia,assgp,Singapore,sgp,161461605.0,2022
+as,Asia,astha,Thailand,tha,1514881.0,2022
+as,Asia,astjk,Tajikistan,tjk,1259990.0,2022
+as,Asia,astls,Timor-Leste,tls,3805.0,2022
+as,Asia,astur,Turkey,tur,419686417.0,2022
+as,Asia,astwn,Chinese Taipei,twn,2885084994.0,2022
+as,Asia,asvnm,Vietnam,vnm,1610188654.0,2022
+eu,Europe,eualb,Albania,alb,17156.0,2022
+eu,Europe,euaut,Austria,aut,64054179.0,2022
+eu,Europe,eubel,Belgium,bel,383832908.0,2022
+eu,Europe,eubgr,Bulgaria,bgr,853546.0,2022
+eu,Europe,eubih,Bosnia and Herzegovina,bih,6962355.0,2022
+eu,Europe,eublr,Belarus,blr,193417.0,2022
+eu,Europe,euche,Switzerland,che,51388290.00000001,2022
+eu,Europe,eucze,Czechia,cze,473400770.0,2022
+eu,Europe,eudeu,Germany,deu,1009024539.0,2022
+eu,Europe,eudnk,Denmark,dnk,1772072.0000000002,2022
+eu,Europe,euesp,Spain,esp,285534039.0,2022
+eu,Europe,euest,Estonia,est,540067.0,2022
+eu,Europe,eufin,Finland,fin,699359.0,2022
+eu,Europe,eufra,France,fra,773797954.0,2022
+eu,Europe,eugbr,United Kingdom,gbr,438031699.0,2022
+eu,Europe,eugrc,Greece,grc,72251.0,2022
+eu,Europe,euhrv,Croatia,hrv,22011561.0,2022
+eu,Europe,euhun,Hungary,hun,56757127.99999999,2022
+eu,Europe,euirl,Ireland,irl,220407.0,2022
+eu,Europe,euisl,Iceland,isl,3550.0,2022
+eu,Europe,euita,Italy,ita,318690111.0,2022
+eu,Europe,eultu,Lithuania,ltu,26640.000000000004,2022
+eu,Europe,eulux,Luxembourg,lux,60199.0,2022
+eu,Europe,eulva,Latvia,lva,11721.0,2022
+eu,Europe,eumda,Moldova,mda,235687.0,2022
+eu,Europe,eumkd,North Macedonia,mkd,4295.0,2022
+eu,Europe,eumlt,Malta,mlt,1813.0,2022
+eu,Europe,eumne,Montenegro,mne,910351.0,2022
+eu,Europe,eunld,Netherlands,nld,1586539027.0,2022
+eu,Europe,eunor,Norway,nor,3220234.0,2022
+eu,Europe,eupol,Poland,pol,523461588.0,2022
+eu,Europe,euprt,Portugal,prt,396689.0,2022
+eu,Europe,eurou,Romania,rou,247208032.0,2022
+eu,Europe,eurus,Russia,rus,165123057.00000003,2022
+eu,Europe,eusrb,Serbia,srb,91031107.0,2022
+eu,Europe,eusvk,Slovakia,svk,152958000.0,2022
+eu,Europe,eusvn,Slovenia,svn,104470215.0,2022
+eu,Europe,euswe,Sweden,swe,2080401.0,2022
+eu,Europe,euukr,Ukraine,ukr,74136.0,2022
+na,North America,nabhs,Bahamas,bhs,57202.0,2022
+na,North America,nacan,Canada,can,20991224.0,2022
+na,North America,nacri,Costa Rica,cri,54497.0,2022
+na,North America,nagtm,Guatemala,gtm,107479.0,2022
+na,North America,namex,Mexico,mex,239745080.0,2022
+na,North America,naslv,El Salvador,slv,42742.0,2022
+na,North America,natto,Trinidad and Tobago,tto,15500.0,2022
+na,North America,nausa,United States,usa,54598726.0,2022
+oc,Oceania,ocaus,Australia,aus,142103139.0,2022
+oc,Oceania,ocnzl,New Zealand,nzl,9189.0,2022
+oc,Oceania,ocpyf,French Polynesia,pyf,136.0,2022
+sa,South America,saarg,Argentina,arg,85539025.0,2022
+sa,South America,sabol,Bolivia,bol,153.0,2022
+sa,South America,sabra,Brazil,bra,736565.0000000001,2022
+sa,South America,sachl,Chile,chl,7767231.999999999,2022
+sa,South America,sacol,Colombia,col,20573.0,2022
+sa,South America,saecu,Ecuador,ecu,50882.0,2022
+sa,South America,saguy,Guyana,guy,9360.0,2022
+sa,South America,saper,Peru,per,2799.0,2022
+sa,South America,sapry,Paraguay,pry,375000.0,2022
+sa,South America,saury,Uruguay,ury,24250539.0,2022
+sa,South America,saven,Venezuela,ven,10320.0,2022
+af,Africa,afbwa,Botswana,bwa,370459.0,2022
+af,Africa,afdza,Algeria,dza,658423344.0,2022
+af,Africa,afegy,Egypt,egy,1368458857.0,2022
+af,Africa,afken,Kenya,ken,19295308.0,2022
+af,Africa,aflby,Libya,lby,280491458.0,2022
+af,Africa,aflso,Lesotho,lso,1344.0,2022
+af,Africa,afmoz,Mozambique,moz,7531880.0,2022
+af,Africa,afnam,Namibia,nam,3473.0,2022
+af,Africa,afsdn,Sudan,sdn,103.0,2022
+af,Africa,afsyc,Seychelles,syc,8.0,2022
+af,Africa,afzaf,South Africa,zaf,13146.0,2022
+af,Africa,afzmb,Zambia,zmb,59541.0,2022
+af,Africa,afzwe,Zimbabwe,zwe,21423.0,2022
+as,Asia,asare,United Arab Emirates,are,1148841278.0,2022
+as,Asia,asarm,Armenia,arm,1302026.0,2022
+as,Asia,asbgd,Bangladesh,bgd,33.0,2022
+as,Asia,asbhr,Bahrain,bhr,2090.0,2022
+as,Asia,asbrn,Brunei,brn,9.000000000000002,2022
+as,Asia,asbtn,Bhutan,btn,3.0,2022
+as,Asia,aschn,China,chn,2123203833.0,2022
+as,Asia,ascyp,Cyprus,cyp,653.0,2022
+as,Asia,ashkg,Hong Kong,hkg,3090542.0,2022
+as,Asia,asidn,Indonesia,idn,77270972.0,2022
+as,Asia,asind,India,ind,13304357.0,2022
+as,Asia,asirn,Iran,irn,26.000000000000004,2022
+as,Asia,asirq,Iraq,irq,273.99999999999994,2022
+as,Asia,asjor,Jordan,jor,14551.0,2022
+as,Asia,asjpn,Japan,jpn,1108119754.0,2022
+as,Asia,askaz,Kazakhstan,kaz,8506.0,2022
+as,Asia,askor,South Korea,kor,1305607838.0,2022
+as,Asia,askwt,Kuwait,kwt,212856.0,2022
+as,Asia,asmys,Malaysia,mys,343904723.0,2022
+as,Asia,asnpl,Nepal,npl,170419.0,2022
+as,Asia,asomn,Oman,omn,457814553.0,2022
+as,Asia,asphl,Philippines,phl,34179432.00000001,2022
+as,Asia,asqat,Qatar,qat,542955844.0,2022
+as,Asia,assau,Saudi Arabia,sau,1921810993.0,2022
+as,Asia,assgp,Singapore,sgp,480898.0,2022
+as,Asia,astha,Thailand,tha,79333.0,2022
+as,Asia,astur,Turkey,tur,670670177.0000001,2022
+as,Asia,astwn,Chinese Taipei,twn,266517715.0,2022
+as,Asia,asvnm,Vietnam,vnm,271758606.0,2022
+as,Asia,asyem,Yemen,yem,40562.0,2022
+eu,Europe,euaut,Austria,aut,661103763.0,2022
+eu,Europe,eubel,Belgium,bel,299589276.0,2022
+eu,Europe,eubgr,Bulgaria,bgr,4445.0,2022
+eu,Europe,euche,Switzerland,che,221.0,2022
+eu,Europe,eucze,Czechia,cze,123418712.0,2022
+eu,Europe,eudeu,Germany,deu,1277812931.0,2022
+eu,Europe,eudnk,Denmark,dnk,2182567.0,2022
+eu,Europe,euesp,Spain,esp,257720613.0,2022
+eu,Europe,euest,Estonia,est,20206.000000000004,2022
+eu,Europe,eufin,Finland,fin,503068844.00000006,2022
+eu,Europe,eufra,France,fra,428556021.0,2022
+eu,Europe,eugbr,United Kingdom,gbr,194803971.0,2022
+eu,Europe,eugrc,Greece,grc,12905.000000000002,2022
+eu,Europe,euhrv,Croatia,hrv,68452931.0,2022
+eu,Europe,euhun,Hungary,hun,26140340.0,2022
+eu,Europe,euirl,Ireland,irl,8533.0,2022
+eu,Europe,euisl,Iceland,isl,4439433.0,2022
+eu,Europe,euita,Italy,ita,202868049.0,2022
+eu,Europe,eultu,Lithuania,ltu,49382.0,2022
+eu,Europe,eulux,Luxembourg,lux,3049.0,2022
+eu,Europe,eulva,Latvia,lva,461401.0,2022
+eu,Europe,eumlt,Malta,mlt,394.0,2022
+eu,Europe,eunld,Netherlands,nld,1537495580.9999998,2022
+eu,Europe,eunor,Norway,nor,3052779.0,2022
+eu,Europe,eupol,Poland,pol,145714601.0,2022
+eu,Europe,euprt,Portugal,prt,1931.0,2022
+eu,Europe,eurou,Romania,rou,205989606.0,2022
+eu,Europe,eurus,Russia,rus,90787169.0,2022
+eu,Europe,eusrb,Serbia,srb,158293399.0,2022
+eu,Europe,eusvk,Slovakia,svk,607029912.0,2022
+eu,Europe,eusvn,Slovenia,svn,29119047.0,2022
+eu,Europe,euswe,Sweden,swe,18960993.0,2022
+eu,Europe,euukr,Ukraine,ukr,1082.0,2022
+na,North America,nabhs,Bahamas,bhs,13735.0,2022
+na,North America,nablz,Belize,blz,25156.0,2022
+na,North America,nacan,Canada,can,708152217.0,2022
+na,North America,nahnd,Honduras,hnd,78.0,2022
+na,North America,namex,Mexico,mex,4704668.0,2022
+na,North America,natto,Trinidad and Tobago,tto,420483580.0,2022
+na,North America,nausa,United States,usa,942630979.0,2022
+oc,Oceania,ocaus,Australia,aus,11132.0,2022
+sa,South America,saarg,Argentina,arg,544378650.0,2022
+sa,South America,sabol,Bolivia,bol,715.0,2022
+sa,South America,sabra,Brazil,bra,43348360.0,2022
+sa,South America,sachl,Chile,chl,13853847.0,2022
